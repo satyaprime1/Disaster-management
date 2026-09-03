@@ -1,0 +1,61 @@
+{
+  "disaster": "FLOOD",
+  "country": "Nepal",
+  "alert": true,
+  "risk": "HIGH",
+  "satellite": "Sentinel-2 L2A + Sentinel-1 GRD",
+  "sensor": "Sentinel-2 MNDWI & Sentinel-1 SAR",
+  "timestamp": "2026-08-30T09:25:44.876701+00:00",
+  "total_flood_pixels": 145800,
+  "flood_percentage": 0.0842,
+  "maximum_mndwi": 0.612,
+  "mean_mndwi": 0.384,
+  "detected_regions": 5,
+  "coordinates": [
+    {
+      "region_id": 101,
+      "name": "Koshi River Basin (Saptari)",
+      "country": "Nepal",
+      "latitude": 26.6542,
+      "longitude": 86.9531,
+      "risk": "HIGH",
+      "probability": 0.942
+    },
+    {
+      "region_id": 102,
+      "name": "Melamchi Flash Flood (Sindhupalchok)",
+      "country": "Nepal",
+      "latitude": 27.832,
+      "longitude": 85.584,
+      "risk": "HIGH",
+      "probability": 0.915
+    },
+    {
+      "region_id": 103,
+      "name": "Narayani River (Chitwan)",
+      "country": "Nepal",
+      "latitude": 27.534,
+      "longitude": 84.452,
+      "risk": "MEDIUM",
+      "probability": 0.84
+    },
+    {
+      "region_id": 104,
+      "name": "Karnali River (Bardiya)",
+      "country": "Nepal",
+      "latitude": 28.452,
+      "longitude": 81.254,
+      "risk": "HIGH",
+      "probability": 0.928
+    },
+    {
+      "region_id": 105,
+      "name": "Bagmati River (Rautahat)",
+      "country": "Nepal",
+      "latitude": 26.852,
+      "longitude": 85.253,
+      "risk": "HIGH",
+      "probability": 0.892
+    }
+  ]
+}

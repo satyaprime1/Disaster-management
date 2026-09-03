@@ -1,0 +1,21 @@
+{
+  "disaster": "flood",
+  "risk": "LOW",
+  "alert": false,
+  "timestamp": "2026-08-27T14:25:56.386881+00:00",
+  "flood_pixels": 170168,
+  "flood_percentage": 0.1411475078052163,
+  "maximum_mndwi": 0.6263864636421204,
+  "mean_mndwi": -0.1873634159564972,
+  "median_mndwi": -0.22063690423965454,
+  "mndwi_threshold": 0.25,
+  "detection_count": 0,
+  "detections": [],
+  "mndwi_map": "D:\\Disaster-management\\Backend\\sattelite_model\\outputs\\flood_mndwi.npy",
+  "flood_mask": "D:\\Disaster-management\\Backend\\sattelite_model\\outputs\\flood_mask.npy",
+  "geojson": "D:\\Disaster-management\\Backend\\sattelite_model\\outputs\\flood_regions.geojson",
+  "product": "D:\\Disaster-management\\Backend\\data\\satellite\\products\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+  "crs": "EPSG:32643",
+  "image_width": 10980,
+  "image_height": 10980
+}

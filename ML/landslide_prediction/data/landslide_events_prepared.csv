@@ -1,0 +1,1154 @@
+date,latitude,longitude,admin_division_name,landslide_trigger
+2007-03-12,34.0935,74.9112,Kashmir,rain
+2007-03-19,33.8778,74.3333,Kashmir,rain
+2007-03-23,33.9659,74.3313,Kashmir,downpour
+2007-04-11,27.4459,88.6193,,downpour
+2007-05-08,33.242,75.231,Kashmir,rain
+2007-05-23,27.3383,88.6069,Sikkim,rain
+2007-06-13,26.7324,88.4089,Bengal,rain
+2007-06-15,26.8096,88.526,Bengal,rain
+2007-06-25,11.7095,76.074,Kerala,monsoon
+2007-06-25,15.8294,78.0501,Andhra Pradesh,rain
+2007-06-25,19.0298,72.9104,Maharashtra,rain
+2007-06-25,11.2738,75.8275,Kerala,rain
+2007-06-25,16.6252,80.6128,Andhra Pradesh,rain
+2007-06-25,16.9648,73.5189,Maharashtra,rain
+2007-06-25,18.431,79.1492,Andhra Pradesh,rain
+2007-06-25,14.4702,78.8205,Andhra Pradesh,rain
+2007-07-02,33.2443135,75.22742083,Kashmir,downpour
+2007-07-16,27.1499,88.38,Sikkim,rain
+2007-07-19,26.1699,91.7986,Assam,rain
+2007-07-20,11.855,75.361,Kerala,downpour
+2007-07-21,23.9304,88.2374,Bengal,rain
+2007-07-26,25.38,91.88,Meghālaya,rain
+2007-07-27,25.5212,90.232,Meghālaya,rain
+2007-07-28,15.4014,73.8277,Goa,rain
+2007-07-30,22.479,92.967,Mizoram,downpour
+2007-07-30,22.533,92.899,Mizoram,downpour
+2007-07-30,30.4,79.349,Uttarakhand,downpour
+2007-07-30,30.733,78.439,Uttarakhand,downpour
+2007-07-30,30.557,79.56,Uttarakhand,downpour
+2007-08-02,26.8905,88.2789,Bengal,rain
+2007-08-06,33.2451,75.2257,Kashmir,rain
+2007-08-07,15.0296,74.0253,Goa,rain
+2007-08-09,12.8733,74.8481,Karnataka,rain
+2007-08-11,30.0702,78.3027,Uttarakhand,rain
+2007-08-12,32.7334,77.5914,Himachal Pradesh,rain
+2007-08-12,32.0985,76.2665,Himachal Pradesh,rain
+2007-08-13,17.3895,78.499,Andhra Pradesh,rain
+2007-08-14,26.2208,73.6106,Rajasthan,downpour
+2007-08-25,27.0713,88.4308,Bengal,rain
+2007-08-26,25.5576,91.8506,Meghālaya,rain
+2007-08-26,25.2946,92.8339,Assam,rain
+2007-08-26,24.9667,93.55,Manipur,continuous_rain
+2007-08-28,25.7428,93.9136,Nāgāland,rain
+2007-08-29,27.0096,88.2548,Bengal,rain
+2007-08-31,22.6461,88.3403,Bengal,rain
+2007-08-31,25.1333,93.9667,Manipur,rain
+2007-09-01,17.2634,73.5446,Maharashtra,rain
+2007-09-05,33.1662,75.3098,Kashmir,rain
+2007-09-05,27.06826195,88.28121204,Bengal,rain
+2007-09-06,29.5833,80.2167,Uttarakhand,rain
+2007-09-07,27.201,88.4883,,rain
+2007-09-07,15.5063,73.8362,Goa,rain
+2007-09-07,26.8833,88.2833,Bengal,rain
+2007-09-08,25.0604,93.9877,Manipur,rain
+2007-09-09,27.1667,88.35,Sikkim,rain
+2007-09-09,25.4993,94.1192,Nāgāland,rain
+2007-09-10,27.3425,88.6236,Sikkim,rain
+2007-09-10,24.2451,94.0691,Manipur,rain
+2007-09-11,24.4279,94.0564,Manipur,rain
+2007-09-11,25.52,91.27,Meghālaya,rain
+2007-09-11,27.2084,88.4909,,rain
+2007-09-13,26.1833,91.8,Assam,rain
+2007-09-18,27.2872,88.2816,Sikkim,rain
+2007-09-20,27.0875,88.4572,Bengal,rain
+2007-09-23,21.464,83.9462,Orissa,rain
+2007-09-29,24.1293,92.6921,Mizoram,rain
+2007-10-16,25.7055,94.0132,Nāgāland,rain
+2007-10-19,25.4379,94.1162,Nāgāland,rain
+2007-10-21,24.75,93.4333,Assam,rain
+2007-10-25,11.7792,78.2034,Tamil Nādu,rain
+2007-10-26,11.4046,76.6953,Tamil Nadu,rain
+2007-10-30,11.2777,77.1236,Tamil Nadu,rain
+2007-12-16,34.93977198,76.83270934,Kashmir,rain
+2008-01-06,33.1517,75.5464,Kashmir,rain
+2008-01-07,33.4341,75.1923,Kashmir,rain
+2008-01-09,33.23738085,75.24528226,Kashmir,rain
+2008-02-03,33.33280503,75.21320384,Kashmir,downpour
+2008-02-08,12.9752,77.6092,Karnātaka,rain
+2008-02-13,33.2418,75.242,Kashmir,rain
+2008-02-13,11.3484,76.7937,Tamil Nadu,rain
+2008-03-30,34.219,77.2665,Kashmir,rain
+2008-04-05,33.9337,74.9985,Kashmir,rain
+2008-05-05,33.9513,74.9845,Kashmir,downpour
+2008-05-28,9.7327,76.8403,Kerala,downpour
+2008-06-03,31.2077,77.193,Himachal Pradesh,rain
+2008-06-06,15.3925,73.8377,Goa,rain
+2008-06-09,24.6596,93.9784,Manipur,monsoon
+2008-06-14,27.0998,93.6287,Arunāchal Pradesh,rain
+2008-06-15,27.2298,94.0989,Assam,downpour
+2008-06-15,32.5659,75.0944,Kashmir,rain
+2008-06-18,32.3712,77.2466,Himachal Pradesh,rain
+2008-06-19,24.9336,93.8275,Manipur,monsoon
+2008-06-20,26.885,88.2778,Bengal,rain
+2008-06-25,11.41,76.69,Tamil Nadu,downpour
+2008-06-30,27.0771,88.482,Bengal,downpour
+2008-07-18,29.33,80.1,Uttarakhand,rain
+2008-08-07,25.705,94.04,Nāgāland,downpour
+2008-08-08,31.13,77.09,Himachal Pradesh,rain
+2008-08-09,15.15,74.11,Goa,rain
+2008-08-10,25.08,75.72,Rajasthan,rain
+2008-08-10,12.6445,75.605,Karnataka,downpour
+2008-08-10,18.72,73.47,Maharashtra,rain
+2008-08-12,12.845,75.66,Karnataka,rain
+2008-08-12,14.229,74.8122,Karnataka,rain
+2008-08-12,13.986,75.452,Karnataka,downpour
+2008-08-14,27.163,94.0,Assam,rain
+2008-08-14,31.0,77.12,Himachal Pradesh,monsoon
+2008-08-15,33.0,74.9277,Kashmir,downpour
+2008-08-17,31.1,77.16,Himachal Pradesh,rain
+2008-08-19,26.138,94.25,Nāgāland,downpour
+2008-08-28,27.337,88.609,Sikkim,downpour
+2008-08-29,25.67,94.1066,Nāgāland,downpour
+2008-09-10,15.323,73.974,Goa,rain
+2008-09-19,31.587,78.315,Himachal Pradesh,downpour
+2008-09-19,31.1,77.1645,Himachal Pradesh,downpour
+2008-09-19,30.56,77.3,Himachal Pradesh,downpour
+2008-09-22,30.7,77.08,Haryana,rain
+2008-10-12,27.0167,78.1333,Uttar Pradesh,rain
+2008-10-22,33.6549,74.6326,Kashmir,downpour
+2008-10-29,27.4,92.35,Arunāchal Pradesh,downpour
+2008-10-29,26.3333,91.25,Assam,downpour
+2008-10-29,27.2333,94.1167,Assam,downpour
+2008-12-20,33.245,75.247,Kashmir,rain
+2009-05-26,26.8836,88.2791,Bengal,tropical_cyclone
+2009-05-26,27.0095,88.2592,Bengal,tropical_cyclone
+2009-05-26,27.04357147,88.26522126,Bengal,tropical_cyclone
+2009-06-17,26.89,88.47,Bengal,downpour
+2009-06-29,18.7591,73.3852,Maharashtra,continuous_rain
+2009-07-01,27.478,88.527,,downpour
+2009-07-03,26.87324244,88.29184021,Bengal,rain
+2009-07-22,27.04,88.264,Bengal,downpour
+2009-07-22,26.8826,88.2788,Bengal,downpour
+2009-07-22,26.8572,88.3143,Bengal,downpour
+2009-08-08,29.5885,80.2098,Uttarakhand,downpour
+2009-08-12,27.7,92.8,Arunāchal Pradesh,downpour
+2009-08-16,26.9599,88.268,Bengal,downpour
+2009-08-16,26.7914,88.363,Bengal,downpour
+2009-08-16,26.74452462,88.40011959,Bengal,downpour
+2009-08-16,26.88211522,88.3195318,Bengal,downpour
+2009-08-16,27.15977181,88.63411246,Bengal,downpour
+2009-08-16,27.02459801,88.43849551,Bengal,downpour
+2009-08-16,26.8867642,88.28044714,Bengal,downpour
+2009-08-17,29.4085,80.1327,Uttarakhand,continuous_rain
+2009-08-19,27.2644,88.1365,,downpour
+2009-08-20,27.0736,88.4779,Bengal,continuous_rain
+2009-08-20,25.5215,93.1645,Assam,downpour
+2009-08-20,27.1761,88.5287,Sikkim,downpour
+2009-08-20,26.88405686,88.28087032,Bengal,continuous_rain
+2009-08-20,26.8992,88.1667,Bengal,continuous_rain
+2009-08-20,27.1344,88.4575,Bengal,downpour
+2009-08-20,24.9925,93.5,Assam,downpour
+2009-08-26,27.3746,88.7648,Sikkim,rain
+2009-08-27,25.1718,93.123,Assam,downpour
+2009-08-30,24.8628,94.4182,Manipur,downpour
+2009-09-01,29.7036,78.5658,Uttarakhand,downpour
+2009-09-03,19.0949,72.8899,Maharashtra,downpour
+2009-09-03,32.351,77.2234,Himachal Pradesh,rain
+2009-09-09,31.5494,76.9001,Himachal Pradesh,downpour
+2009-09-10,32.4035,77.5796,Himachal Pradesh,downpour
+2009-09-10,31.8833,78.6167,Himachal Pradesh,downpour
+2009-09-12,31.1032,77.1625,Himachal Pradesh,downpour
+2009-09-12,8.742,76.8902,Kerala,rain
+2009-09-17,27.1954,88.6115,Sikkim,rain
+2009-09-18,26.8342,88.2798,Bengal,rain
+2009-09-19,11.2695,76.2227,Kerala,downpour
+2009-10-01,16.656,73.5178,Maharashtra,downpour
+2009-10-02,14.7395,74.2566,Karnataka,downpour
+2009-10-02,14.9935,74.0478,Karnataka,rain
+2009-10-02,14.7812,74.499,Karnataka,downpour
+2009-10-03,11.4477,75.8289,Kerala,downpour
+2009-10-03,11.4816,75.9957,Kerala,downpour
+2009-10-05,23.73478778,92.72124394,Mizoram,downpour
+2009-11-08,10.3018,77.1711,Tamil Nadu,downpour
+2009-11-09,11.4098,76.6939,Tamil Nadu,downpour
+2010-01-03,33.0289,74.9489,Kashmir,downpour
+2010-02-06,33.1595,75.8011,Kashmir,downpour
+2010-02-08,34.0876,74.0225,Kashmir,downpour
+2010-02-10,34.151,74.1213,Kashmir,rain
+2010-02-23,30.383,78.5094,Uttarakhand,downpour
+2010-02-26,33.0097,74.9402,Kashmir,downpour
+2010-03-27,24.7339,93.9161,Manipur,downpour
+2010-04-01,25.1553,93.028,Assam,downpour
+2010-04-02,27.8997,93.3497,Arunāchal Pradesh,downpour
+2010-04-17,27.3341,88.6083,Sikkim,downpour
+2010-04-17,27.322,88.6087,Sikkim,downpour
+2010-04-20,26.1965,91.763,Assam,downpour
+2010-04-20,34.38663064,76.34158851,Kashmir,downpour
+2010-04-20,26.1978,91.7665,Assam,downpour
+2010-04-20,34.38667467,76.34149164,Kashmir,downpour
+2010-04-21,27.8965,96.1779,Arunāchal Pradesh,downpour
+2010-04-21,25.3612,92.2845,Meghālaya,downpour
+2010-05-11,25.3433,92.2897,Meghālaya,downpour
+2010-05-17,34.3951,75.6233,Kashmir,downpour
+2010-05-20,16.5121,80.6296,Andhra Pradesh,tropical_cyclone
+2010-05-25,34.09,74.0256,Kashmir,downpour
+2010-05-27,34.5628,77.6001,Kashmir,rain
+2010-05-31,28.4298,95.8776,Arunāchal Pradesh,downpour
+2010-05-31,27.3543,88.6428,Sikkim,downpour
+2010-06-03,24.6005,92.3814,Assam,downpour
+2010-06-03,23.8986,91.7599,Tripura,downpour
+2010-06-05,34.0901,74.0256,Kashmir,downpour
+2010-06-07,24.7543,93.5039,Manipur,rain
+2010-06-08,19.0176,72.8562,Maharashtra,monsoon
+2010-06-08,19.1646,72.9325,Maharashtra,monsoon
+2010-06-09,25.8833,91.2,Meghālaya,downpour
+2010-06-09,31.09907494,77.1723589,Himachal Pradesh,downpour
+2010-06-11,26.944,88.4441,Bengal,downpour
+2010-06-15,25.2269,93.1658,Assam,downpour
+2010-06-15,18.7624,73.3747,Maharashtra,downpour
+2010-06-15,26.3335,94.5512,Nāgāland,downpour
+2010-06-16,27.0765,88.4808,Bengal,rain
+2010-06-16,26.8073,88.3162,Bengal,downpour
+2010-06-16,25.0633,92.8025,Assam,downpour
+2010-06-17,26.4333,94.8833,Nāgāland,downpour
+2010-06-19,17.8975,73.2961,Maharashtra,downpour
+2010-06-25,19.1095,72.8929,Maharashtra,downpour
+2010-06-25,19.069,72.8703,Maharashtra,downpour
+2010-06-25,12.89163444,74.88548779,Karnataka,downpour
+2010-06-25,19.153,72.9266,Maharashtra,downpour
+2010-06-27,12.89307458,74.88567317,Karnataka,downpour
+2010-06-28,25.5728,91.885,Meghālaya,downpour
+2010-06-28,25.4916,91.2698,Meghālaya,downpour
+2010-07-04,26.8712,88.3052,Bengal,rain
+2010-07-06,26.7225,95.0281,Nāgāland,monsoon
+2010-07-06,30.638,78.3297,Uttarakhand,downpour
+2010-07-06,25.8877,94.7861,Nāgāland,monsoon
+2010-07-06,26.2363,94.8133,Nāgāland,monsoon
+2010-07-06,30.2485,78.8847,Uttarakhand,downpour
+2010-07-06,26.0093,94.5238,Nāgāland,monsoon
+2010-07-07,31.1011,77.1793,Himachal Pradesh,downpour
+2010-07-07,32.3733,77.2498,Himachal Pradesh,downpour
+2010-07-07,31.5041,77.9521,Himachal Pradesh,downpour
+2010-07-07,32.219,78.072,Himachal Pradesh,downpour
+2010-07-07,31.645,78.4354,Himachal Pradesh,downpour
+2010-07-07,32.6598,76.853,Himachal Pradesh,downpour
+2010-07-11,32.304,77.2106,Himachal Pradesh,downpour
+2010-07-17,30.6358,77.5435,Himachal Pradesh,downpour
+2010-07-19,26.7215,95.0283,Nāgāland,downpour
+2010-07-20,26.8716,94.9921,Nāgāland,downpour
+2010-07-20,29.3576,79.5519,Uttarakhand,downpour
+2010-07-20,29.9862,78.6115,Uttarakhand,downpour
+2010-07-20,29.36,80.126,Uttarakhand,downpour
+2010-07-21,12.8277,75.0772,Karnataka,downpour
+2010-07-21,27.5509,88.6475,,downpour
+2010-07-21,27.3773,88.559,Sikkim,downpour
+2010-07-22,16.5676,73.6608,Maharashtra,downpour
+2010-07-22,33.3893,75.203,Kashmir,downpour
+2010-07-22,19.17377751,72.88274367,Maharashtra,continuous_rain
+2010-07-22,29.6095,79.6628,Uttarakhand,downpour
+2010-07-24,16.93911427,73.4745894,Maharashtra,downpour
+2010-07-25,30.5589,77.2889,Himachal Pradesh,downpour
+2010-07-25,32.2067,76.3641,Himachal Pradesh,downpour
+2010-07-25,25.0477,92.801,Assam,downpour
+2010-07-25,31.0931,77.1675,Himachal Pradesh,downpour
+2010-07-25,30.904,77.0969,Himachal Pradesh,downpour
+2010-07-25,31.1054,77.1727,Himachal Pradesh,downpour
+2010-07-25,16.94054188,73.46485294,Maharashtra,downpour
+2010-07-26,16.94057232,73.46476377,Maharashtra,downpour
+2010-07-29,30.7467,78.4517,Uttarakhand,downpour
+2010-07-29,24.9786,93.5027,Assam,downpour
+2010-07-29,25.4196,94.1054,Nāgāland,downpour
+2010-07-29,30.4054,79.3426,Uttarakhand,downpour
+2010-07-29,12.896,74.8735,Karnataka,downpour
+2010-07-29,25.3098633,94.48214677,Manipur,downpour
+2010-07-30,15.949,73.9667,Maharashtra,downpour
+2010-07-30,15.9517,73.9958,Maharashtra,rain
+2010-07-31,19.1287,72.8889,Maharashtra,downpour
+2010-07-31,24.9356,93.8443,Manipur,rain
+2010-07-31,12.8715,74.8862,Karnataka,downpour
+2010-07-31,31.0655,77.1325,Himachal Pradesh,downpour
+2010-08-04,32.7571,77.4138,Himachal Pradesh,downpour
+2010-08-05,27.0366,88.263,Bengal,downpour
+2010-08-05,30.4068,79.3351,Uttarakhand,downpour
+2010-08-06,34.1416,77.4871,Kashmir,downpour
+2010-08-06,34.208,77.5101,Kashmir,downpour
+2010-08-06,32.371,77.2468,Himachal Pradesh,downpour
+2010-08-06,34.3061,77.3265,Kashmir,downpour
+2010-08-06,34.1482,77.5971,Kashmir,downpour
+2010-08-06,27.0375,88.2627,Bengal,downpour
+2010-08-06,34.1114,77.5874,Kashmir,downpour
+2010-08-06,23.7365,92.7146,Mizoram,downpour
+2010-08-06,34.2116,77.3504,Kashmir,downpour
+2010-08-06,34.1481,77.6538,Kashmir,downpour
+2010-08-06,34.1619,77.5528,Kashmir,downpour
+2010-08-09,30.5151,78.3684,Uttarakhand,downpour
+2010-08-09,30.6785,78.3475,Uttarakhand,downpour
+2010-08-09,33.334,75.7627,Kashmir,downpour
+2010-08-09,30.6463,79.5306,Uttarakhand,downpour
+2010-08-11,31.958,77.1104,Himachal Pradesh,downpour
+2010-08-13,30.8522,76.991,Himachal Pradesh,rain
+2010-08-13,30.80200029,78.61786282,Uttarakhand,downpour
+2010-08-13,25.70223725,94.04619681,Nāgāland,downpour
+2010-08-14,30.9012,77.0958,Himachal Pradesh,downpour
+2010-08-14,26.0814,94.803,Nāgāland,downpour
+2010-08-14,26.222,94.9152,Nāgāland,downpour
+2010-08-14,26.148,94.8422,Nāgāland,downpour
+2010-08-15,25.31006064,94.48265093,Manipur,downpour
+2010-08-16,30.7284,79.4971,Uttarakhand,downpour
+2010-08-17,19.0997,72.8974,Maharashtra,downpour
+2010-08-17,26.9435,88.4445,Bengal,downpour
+2010-08-17,19.1993,73.0109,Maharashtra,downpour
+2010-08-17,26.2753,94.6654,Nāgāland,downpour
+2010-08-18,17.0661,73.5027,Maharashtra,downpour
+2010-08-18,30.0134,79.9261,Uttarakhand,downpour
+2010-08-19,26.1984,94.8158,Nāgāland,downpour
+2010-08-19,25.61560252,94.11603493,Nāgāland,downpour
+2010-08-19,26.9722,88.4481,Bengal,downpour
+2010-08-19,19.1935,73.0114,Maharashtra,downpour
+2010-08-19,24.8961,93.4957,Manipur,downpour
+2010-08-20,30.8183,78.6186,Uttarakhand,downpour
+2010-08-20,30.6509,79.0264,Uttarakhand,downpour
+2010-08-20,30.966,78.4151,Uttarakhand,downpour
+2010-08-20,30.7221,78.6437,Uttarakhand,downpour
+2010-08-20,27.167,88.3652,Sikkim,downpour
+2010-08-20,30.3846,78.8371,Uttarakhand,downpour
+2010-08-21,31.5304,77.7755,Himachal Pradesh,downpour
+2010-08-21,25.5718,94.1211,Nāgāland,downpour
+2010-08-22,30.4238,79.6724,Uttarakhand,downpour
+2010-08-22,30.4084,77.0666,Haryana,downpour
+2010-08-26,16.5141,80.6053,Andhra Pradesh,downpour
+2010-08-26,30.365,78.0641,Uttarakhand,downpour
+2010-08-26,27.2319,88.497,,downpour
+2010-08-26,32.7029,75.9568,Himachal Pradesh,downpour
+2010-08-27,25.4786,94.1327,Nāgāland,downpour
+2010-08-27,24.7505,93.4221,Assam,downpour
+2010-08-27,27.3392,88.6188,Sikkim,downpour
+2010-08-30,19.2179,73.1694,Maharashtra,downpour
+2010-08-31,16.5157,80.6525,Andhra Pradesh,downpour
+2010-08-31,16.5332,80.6103,Andhra Pradesh,downpour
+2010-09-03,30.4008,79.0278,Uttarakhand,downpour
+2010-09-03,30.135,78.3896,Uttarakhand,downpour
+2010-09-03,30.2851,78.9829,Uttarakhand,downpour
+2010-09-04,27.3702,88.7334,Sikkim,downpour
+2010-09-04,30.8987,78.3399,Uttarakhand,downpour
+2010-09-04,30.796,78.623,Uttarakhand,downpour
+2010-09-04,30.5004,79.3888,Uttarakhand,downpour
+2010-09-06,32.0987,77.1495,Himachal Pradesh,downpour
+2010-09-09,28.3036,95.4112,Arunāchal Pradesh,downpour
+2010-09-10,27.0011,93.7273,Arunāchal Pradesh,downpour
+2010-09-11,30.7059,76.9844,Haryana,downpour
+2010-09-12,25.63961883,94.11112157,Nāgāland,downpour
+2010-09-12,30.7333,78.4403,Uttarakhand,downpour
+2010-09-13,23.591,92.9296,Mizoram,downpour
+2010-09-13,23.3439,93.0748,Mizoram,downpour
+2010-09-13,23.74182634,92.7141905,Mizoram,downpour
+2010-09-13,23.75406693,92.74128531,Mizoram,downpour
+2010-09-13,23.72988966,92.71495623,Mizoram,downpour
+2010-09-13,23.73504471,92.71060943,Mizoram,downpour
+2010-09-13,32.3109,77.2195,Himachal Pradesh,downpour
+2010-09-13,22.7176,92.8416,Mizoram,downpour
+2010-09-15,31.4135,77.895,Himachal Pradesh,downpour
+2010-09-16,23.7527,92.694,Mizoram,downpour
+2010-09-16,24.3069,93.125,Mizoram,downpour
+2010-09-17,30.75402442,79.49970189,Uttarakhand,downpour
+2010-09-17,16.5141,80.6055,Andhra Pradesh,downpour
+2010-09-18,29.6042,79.5343,Uttarakhand,downpour
+2010-09-18,30.1454,78.6007,Uttarakhand,downpour
+2010-09-18,29.2484,79.5371,Uttarakhand,downpour
+2010-09-19,30.9544,77.5063,Himachal Pradesh,downpour
+2010-09-19,31.1191,77.5092,Himachal Pradesh,downpour
+2010-09-19,29.7911,80.058,Uttarakhand,downpour
+2010-09-19,29.6131,79.494,Uttarakhand,downpour
+2010-09-19,30.7198,77.1695,Himachal Pradesh,downpour
+2010-09-19,30.1035,78.4265,Uttarakhand,downpour
+2010-09-19,30.4326,78.0767,Uttarakhand,downpour
+2010-09-19,30.9013,79.5322,Uttarakhand,downpour
+2010-09-19,31.4582,78.2114,Himachal Pradesh,downpour
+2010-09-19,30.7991,79.4356,Uttarakhand,downpour
+2010-09-19,30.8741,76.9576,Himachal Pradesh,downpour
+2010-09-19,30.1977,77.9137,Uttarakhand,downpour
+2010-09-19,31.563,77.9796,Himachal Pradesh,downpour
+2010-09-19,31.9843,77.1889,Himachal Pradesh,downpour
+2010-09-19,30.9015,78.7756,Uttarakhand,downpour
+2010-09-19,29.5477,79.3211,Uttarakhand,downpour
+2010-09-19,31.4161,77.4153,Himachal Pradesh,downpour
+2010-09-19,30.9009,77.4668,Himachal Pradesh,downpour
+2010-09-19,30.9035,77.0965,Himachal Pradesh,downpour
+2010-09-19,30.9086,77.1103,Himachal Pradesh,downpour
+2010-09-20,29.3987,79.4841,Uttarakhand,downpour
+2010-09-20,31.1581,77.7155,Himachal Pradesh,downpour
+2010-09-20,30.7332,78.4401,Uttarakhand,downpour
+2010-09-20,31.944,77.1179,Himachal Pradesh,downpour
+2010-09-20,31.5699,78.2844,Himachal Pradesh,downpour
+2010-09-22,31.0215,77.1038,Himachal Pradesh,downpour
+2010-09-23,33.27140108,75.17707406,Kashmir,downpour
+2010-09-24,9.8988,76.3902,Kerala,downpour
+2010-09-25,33.241,75.2382,Kashmir,downpour
+2010-10-03,30.9141,76.818,Himachal Pradesh,continuous_rain
+2010-10-03,28.3092,95.4149,Arunāchal Pradesh,downpour
+2010-10-03,12.9711,76.2728,Karnataka,rain
+2010-10-04,30.9546,77.1792,Himachal Pradesh,downpour
+2010-10-08,25.2745,94.0212,Nāgāland,downpour
+2010-10-08,24.7679,93.4108,Assam,downpour
+2010-10-08,24.837,93.9128,Manipur,downpour
+2010-10-08,25.6633,94.4703,Manipur,downpour
+2010-10-08,25.4769,94.1351,Nāgāland,downpour
+2010-10-09,25.1796,93.0083,Assam,downpour
+2010-10-09,25.4749,93.1477,Assam,downpour
+2010-10-09,25.682,94.1076,Nāgāland,downpour
+2010-10-09,25.3179,94.0462,Nāgāland,downpour
+2010-10-09,25.4788,94.1399,Nāgāland,downpour
+2010-10-09,25.5242,92.9914,Assam,downpour
+2010-10-09,25.5265,93.8673,Nāgāland,downpour
+2010-10-10,25.6623,94.1072,Nāgāland,downpour
+2010-10-11,16.5141,80.6058,Andhra Pradesh,downpour
+2010-10-12,33.1847,75.8062,Kashmir,downpour
+2010-10-14,31.5158,78.2619,Himachal Pradesh,rain
+2010-10-21,34.0887,74.0227,Kashmir,downpour
+2010-10-22,33.0107,74.9397,Kashmir,downpour
+2010-10-27,9.8678,76.7705,Kerala,downpour
+2010-10-31,18.2733,83.0645,Andhra Pradesh,downpour
+2010-11-08,14.7822,74.2279,Karnataka,downpour
+2010-11-11,12.8806,75.0327,Karnataka,downpour
+2010-11-16,10.3184,77.5277,Tamil Nadu,downpour
+2010-11-23,10.2462,77.582,Tamil Nadu,downpour
+2010-12-09,8.3295,77.1963,Tamil Nadu,downpour
+2011-02-07,33.35406635,75.17240669,Kashmir,downpour
+2011-02-13,33.33875958,75.1921061,Kashmir,rain
+2011-02-13,33.577,74.1872,Kashmir,downpour
+2011-02-13,33.0165,74.9437,Kashmir,downpour
+2011-02-16,33.3308,75.1774,Kashmir,downpour
+2011-02-16,33.2609,75.244,Kashmir,downpour
+2011-02-23,30.4749,79.2293,Uttarakhand,downpour
+2011-02-24,33.3307,75.1772,Kashmir,downpour
+2011-02-25,32.2338,77.1784,Himachal Pradesh,continuous_rain
+2011-03-01,33.2477,75.1919,Kashmir,downpour
+2011-03-03,33.2257,75.6695,Kashmir,downpour
+2011-03-05,32.0996,77.1586,Himachal Pradesh,downpour
+2011-03-19,33.3308,75.1773,Kashmir,downpour
+2011-03-19,33.2466,75.1611,Kashmir,downpour
+2011-03-19,33.3390327,75.1916877,Kashmir,downpour
+2011-03-22,28.0791,96.5242,Arunāchal Pradesh,downpour
+2011-04-06,34.2101,74.3445,Kashmir,downpour
+2011-04-17,34.1802,74.2718,Kashmir,downpour
+2011-04-17,33.1488,75.5526,Kashmir,downpour
+2011-04-17,33.2599,75.8886,Kashmir,downpour
+2011-04-17,33.3645,75.1999,Kashmir,downpour
+2011-04-19,33.5808,74.9035,Kashmir,downpour
+2011-05-22,25.0672,93.4093,Assam,downpour
+2011-05-24,25.0888,92.8551,Assam,downpour
+2011-05-31,25.1555,93.8474,Manipur,continuous_rain
+2011-05-31,9.8012,76.9006,Kerala,downpour
+2011-05-31,24.8286,93.5935,Manipur,downpour
+2011-05-31,30.4783,78.2741,Uttarakhand,rain
+2011-05-31,30.9206,78.3276,Uttarakhand,rain
+2011-06-01,9.6326,76.9792,Kerala,downpour
+2011-06-02,9.8306,76.9408,Kerala,downpour
+2011-06-02,9.5207,77.0198,Tamil Nadu,downpour
+2011-06-02,9.8721,76.7046,Kerala,downpour
+2011-06-02,10.0838,77.0696,Kerala,downpour
+2011-06-07,30.2414,78.908,Uttarakhand,downpour
+2011-06-07,30.5319,79.3541,Uttarakhand,downpour
+2011-06-08,33.1289,75.4325,Kashmir,downpour
+2011-06-09,33.1617,75.3278,Kashmir,downpour
+2011-06-14,15.5935,73.9434,Goa,downpour
+2011-06-14,14.0354,74.6624,Karnataka,downpour
+2011-06-14,32.3709,77.2466,Himachal Pradesh,downpour
+2011-06-16,11.2993,76.9354,Tamil Nadu,rain
+2011-06-17,26.88,88.28,Bengal,downpour
+2011-06-17,27.4885,88.4451,,rain
+2011-06-17,15.5931,73.8119,Goa,rain
+2011-06-17,31.5639,77.9798,Himachal Pradesh,downpour
+2011-06-17,26.84850975,88.26181745,Bengal,continuous_rain
+2011-06-17,17.0032,73.3572,Maharashtra,downpour
+2011-06-19,15.2932,74.1447,Goa,downpour
+2011-06-20,26.3186,94.5121,Nāgāland,downpour
+2011-06-20,27.0638,88.4659,Bengal,rain
+2011-06-21,25.51614662,94.2341227,Nāgāland,rain
+2011-06-23,27.2879,88.2579,,downpour
+2011-06-27,12.6771,75.2565,Karnataka,rain
+2011-06-27,12.9141,74.856,Karnataka,downpour
+2011-06-28,25.6682,94.1099,Nāgāland,downpour
+2011-06-28,25.03561729,94.0144205,Manipur,rain
+2011-06-29,30.67629482,79.04191791,Uttarakhand,downpour
+2011-06-29,30.7666,78.7963,Uttarakhand,downpour
+2011-06-29,32.4318,77.2147,Himachal Pradesh,continuous_rain
+2011-06-29,29.607,79.9298,Uttarakhand,downpour
+2011-06-29,30.81507336,78.2242533,Uttarakhand,downpour
+2011-06-29,25.5125,93.3613,Assam,downpour
+2011-06-29,30.2416,78.8996,Uttarakhand,downpour
+2011-06-29,32.2282,77.1898,Himachal Pradesh,continuous_rain
+2011-06-29,30.0667,79.0193,Uttarakhand,downpour
+2011-06-30,30.15,78.7753,Uttarakhand,downpour
+2011-07-01,25.8782,94.1739,Nāgāland,downpour
+2011-07-02,13.1819,76.1147,Karnataka,rain
+2011-07-03,34.1601,75.496,Kashmir,rain
+2011-07-03,34.1491,76.826,Kashmir,downpour
+2011-07-06,30.3214,78.0319,Uttarakhand,downpour
+2011-07-06,24.8063,93.9482,Manipur,downpour
+2011-07-07,25.4191,94.1079,Nāgāland,rain
+2011-07-08,32.3237,77.1935,Himachal Pradesh,rain
+2011-07-08,30.6509,79.5192,Uttarakhand,downpour
+2011-07-08,30.9209,77.0206,Himachal Pradesh,rain
+2011-07-09,30.7412,79.4929,Uttarakhand,downpour
+2011-07-09,30.7331,79.0685,Uttarakhand,downpour
+2011-07-09,30.7652,78.5925,Uttarakhand,downpour
+2011-07-09,31.0188,78.4129,Uttarakhand,downpour
+2011-07-10,31.7099,76.933,Himachal Pradesh,downpour
+2011-07-10,30.7333,78.4399,Uttarakhand,downpour
+2011-07-11,30.506,79.1127,Uttarakhand,downpour
+2011-07-11,25.6703,94.1095,Nāgāland,downpour
+2011-07-12,31.10587659,77.17798485,Himachal Pradesh,downpour
+2011-07-12,19.6699,73.5111,Maharashtra,rain
+2011-07-15,32.3491,77.2181,Himachal Pradesh,downpour
+2011-07-15,27.125,93.7145,Arunāchal Pradesh,downpour
+2011-07-16,27.2743,92.9064,Arunāchal Pradesh,downpour
+2011-07-17,15.8513,73.8161,Maharashtra,downpour
+2011-07-17,26.99195749,88.42280921,Sikkim,rain
+2011-07-19,27.1032,93.6884,Arunāchal Pradesh,downpour
+2011-07-19,27.05374234,88.42572376,Sikkim,rain
+2011-07-19,33.6917,76.0412,Kashmir,rain
+2011-07-20,27.1141,88.4658,Bengal,rain
+2011-07-21,30.4043,79.3318,Uttarakhand,rain
+2011-07-21,30.1665,78.1123,Uttarakhand,rain
+2011-07-21,29.7334,79.6367,Uttarakhand,rain
+2011-07-22,24.7992,93.948,Manipur,downpour
+2011-07-22,16.1078,73.7167,Maharashtra,downpour
+2011-07-22,24.3527,94.3429,Manipur,downpour
+2011-07-24,26.5836,93.0038,Assam,downpour
+2011-07-25,32.1896,77.187,Himachal Pradesh,downpour
+2011-07-25,24.6869,93.9157,Manipur,downpour
+2011-07-29,25.4192,94.108,Nāgāland,rain
+2011-07-29,27.5862,80.1306,Uttar Pradesh,downpour
+2011-07-29,30.012,78.197,Uttarakhand,downpour
+2011-08-05,27.1034,93.6885,Arunāchal Pradesh,downpour
+2011-08-06,31.69137979,77.13222306,Himachal Pradesh,continuous_rain
+2011-08-06,9.4237,76.9371,Kerala,downpour
+2011-08-06,9.497393176,76.8696375,Kerala,downpour
+2011-08-07,31.2403,77.9258,Himachal Pradesh,downpour
+2011-08-07,31.0766,77.3913,Himachal Pradesh,rain
+2011-08-07,9.5988,76.5289,Kerala,downpour
+2011-08-07,15.7067,73.9551,Goa,downpour
+2011-08-07,33.0271,75.0018,Kashmir,downpour
+2011-08-07,31.71456806,77.02239366,Himachal Pradesh,downpour
+2011-08-07,31.7083,76.9316,Himachal Pradesh,downpour
+2011-08-07,31.0766,77.3916,Himachal Pradesh,downpour
+2011-08-07,33.4406,75.1996,Kashmir,downpour
+2011-08-08,30.6521,79.5566,Uttarakhand,downpour
+2011-08-08,30.2258,78.3755,Uttarakhand,downpour
+2011-08-09,24.5958,72.7169,Rajasthan,downpour
+2011-08-10,30.2828,78.3041,Uttarakhand,rain
+2011-08-11,32.7327,74.8556,Kashmir,downpour
+2011-08-11,32.737,74.876,Kashmir,rain
+2011-08-12,28.8665,79.5682,Uttarakhand,rain
+2011-08-12,29.9121,78.1723,Uttarakhand,rain
+2011-08-12,27.44,92.2833,Arunāchal Pradesh,rain
+2011-08-13,31.7077,76.9313,Himachal Pradesh,downpour
+2011-08-13,25.7713,93.8067,Assam,downpour
+2011-08-15,27.4888,93.0153,Arunāchal Pradesh,downpour
+2011-08-16,25.5144,90.2167,Meghālaya,downpour
+2011-08-18,25.83,94.13,Nāgāland,monsoon
+2011-08-23,27.13862165,88.22551799,,downpour
+2011-08-25,27.7344,88.633,,downpour
+2011-08-27,32.6188,75.3504,Kashmir,downpour
+2011-08-27,28.6809,77.1958,NCT,downpour
+2011-08-27,32.5764,75.8466,Kashmir,downpour
+2011-08-28,19.1355,72.9981,Maharashtra,continuous_rain
+2011-08-29,18.9774,72.8102,Maharashtra,downpour
+2011-08-30,17.4303,73.5097,Maharashtra,continuous_rain
+2011-09-04,17.9031,73.4361,Maharashtra,rain
+2011-09-06,24.808,93.117,Assam,rain
+2011-09-23,26.1548,91.7351,Assam,downpour
+2011-09-25,27.0605,88.255,Bengal,downpour
+2011-09-28,26.8545,88.3372,West Bengal,rain
+2011-10-15,10.4497,77.5206,Tamil Nadu,downpour
+2011-10-17,9.9903,76.7898,Kerala,downpour
+2011-11-03,10.2445,77.5146,Tamil Nadu,downpour
+2011-12-10,29.913,79.3532,Uttarakhand,downpour
+2012-01-12,33.2407,75.2373,Kashmir,downpour
+2012-01-13,33.4209,75.2045,Kashmir,downpour
+2012-02-04,33.2424,75.2381,Kashmir,downpour
+2012-02-15,32.3682,75.5227,Kashmir,downpour
+2012-02-16,32.5655,76.1201,Himachal Pradesh,downpour
+2012-02-22,33.241,75.234,Kashmir,downpour
+2012-03-19,34.6507,74.7362,Kashmir,rain
+2012-04-08,28.4659,95.86,Arunāchal Pradesh,downpour
+2012-04-24,33.2413,75.2381,Kashmir,downpour
+2012-05-30,26.876,75.8101,Rajasthan,downpour
+2012-06-02,28.8254,96.1517,Arunachal Pradesh,downpour
+2012-06-02,26.1475,91.7356,Assam,downpour
+2012-06-03,27.7167,88.5577,,downpour
+2012-06-03,25.1175,92.8573,Assam,downpour
+2012-06-03,25.3056,93.1265,Assam,downpour
+2012-06-03,25.1775,93.0123,Assam,downpour
+2012-06-07,27.7565,88.632,,downpour
+2012-06-07,27.1748,88.6458,Sikkim,rain
+2012-06-08,34.1534,77.5768,Kashmir,downpour
+2012-06-10,24.8142,93.5444,Manipur,downpour
+2012-06-13,25.5498,92.0757,Meghālaya,downpour
+2012-06-13,25.0951,92.3567,Assam,downpour
+2012-06-14,27.339,88.6065,Sikkim,downpour
+2012-06-20,26.149,91.7351,Assam,downpour
+2012-06-20,20.855,77.7274,Maharashtra,downpour
+2012-06-22,26.1226,91.7162,Assam,downpour
+2012-06-25,26.1049,91.7369,Assam,downpour
+2012-06-25,27.174,95.8011,Arunāchal Pradesh,downpour
+2012-06-25,26.9986,95.4993,Arunāchal Pradesh,downpour
+2012-07-05,28.9986,94.8885,Arunachal Pradesh,downpour
+2012-07-05,31.1066,77.209,Himachal Pradesh,downpour
+2012-07-05,30.1281,78.3221,Uttarakhand,downpour
+2012-07-07,34.0123,77.9988,Kashmir,downpour
+2012-07-19,26.8546,88.3373,West Bengal,monsoon
+2012-07-22,11.405,76.0376,Kerala,downpour
+2012-08-14,30.7362,78.44,Uttarakhand,downpour
+2012-08-17,10.0604,76.635,Kerala,downpour
+2012-08-17,9.7285,76.803,Kerala,downpour
+2012-08-17,30.6594,79.5605,Uttarakhand,downpour
+2012-08-17,10.007,76.7105,Kerala,downpour
+2012-08-17,30.6179,78.3233,Uttarakhand,downpour
+2012-08-17,9.5527,76.9299,Kerala,downpour
+2012-08-17,9.6991,76.8168,Kerala,downpour
+2012-08-17,9.8232,77.1498,Tamil Nadu,downpour
+2012-08-17,10.0011,76.7416,Kerala,downpour
+2012-08-17,9.7268,76.8081,Kerala,downpour
+2012-08-18,32.1797,77.1947,Himachal Pradesh,downpour
+2012-08-18,32.2278,78.071,Himachal Pradesh,downpour
+2012-08-20,33.0829,74.8333,Kashmir,downpour
+2012-08-21,34.6113,74.9499,Kashmir,downpour
+2012-08-22,33.2412,75.2382,Kashmir,downpour
+2012-08-24,30.9044,77.0969,Himachal Pradesh,downpour
+2012-08-24,32.1002,76.2699,Himachal Pradesh,downpour
+2012-08-24,30.7395,77.2847,Himachal Pradesh,downpour
+2012-08-24,31.709,76.9312,Himachal Pradesh,downpour
+2012-08-29,33.775,74.0934,Kashmir,downpour
+2012-09-01,15.3826,73.9239,Goa,downpour
+2012-09-03,19.0397,72.907,Maharashtra,downpour
+2012-09-04,19.6241,72.9084,Maharashtra,downpour
+2012-09-14,27.0377,88.3603,Sikkim,downpour
+2012-09-14,30.2853,78.9829,Uttarakhand,downpour
+2012-09-14,29.841,79.7758,Uttarakhand,downpour
+2012-09-15,32.9295,75.1432,Kashmir,downpour
+2012-09-16,33.303,77.8876,Kashmir,downpour
+2012-09-16,27.1675,88.3651,Sikkim,downpour
+2012-09-17,33.9639,74.9597,Kashmir,downpour
+2012-09-18,31.0226,77.1029,Himachal Pradesh,downpour
+2012-09-19,27.8385,88.556,,downpour
+2012-09-19,27.6558,88.605,,downpour
+2012-09-19,27.8458,95.2253,Arunāchal Pradesh,downpour
+2012-10-21,11.338,76.8806,Tamil Nadu,rain
+2012-10-22,10.077,76.322,Kerala,rain
+2012-11-11,23.7705,92.5217,Mizoram,downpour
+2012-12-11,32.9522,75.1533,Kashmir,rain
+2013-02-18,28.1193,95.1645,Arunāchal Pradesh,rain
+2013-04-07,28.8254,96.1509,Arunachal Pradesh,rain
+2013-04-26,34.2946,75.4832,Kashmir,rain
+2013-05-07,24.2315,92.6755,Mizoram,rain
+2013-05-08,24.0896,91.4663,Tripura,rain
+2013-05-11,26.1771,91.7599,Assam,rain
+2013-05-11,26.1662,91.7138,Assam,rain
+2013-05-11,23.7281,92.7175,Mizoram,rain
+2013-05-11,26.1016,91.6906,Assam,rain
+2013-05-12,24.9926,93.4946,Assam,rain
+2013-05-26,28.758,77.15,NCT,downpour
+2013-06-01,27.8776,94.25,Arunāchal Pradesh,downpour
+2013-06-08,27.3721,88.708,Sikkim,downpour
+2013-06-11,31.4898,76.7043,Himachal Pradesh,downpour
+2013-06-11,31.4881,76.6702,Himachal Pradesh,rain
+2013-06-12,32.2108,76.2833,Himachal Pradesh,downpour
+2013-06-12,30.7394,78.5306,Uttarakhand,downpour
+2013-06-12,32.5552,76.1249,Himachal Pradesh,downpour
+2013-06-15,31.5168,78.0976,Himachal Pradesh,downpour
+2013-06-16,31.5986,78.4384,Himachal Pradesh,downpour
+2013-06-16,31.348,77.4614,Himachal Pradesh,downpour
+2013-06-16,30.4619,79.0765,Uttarakhand,rain
+2013-06-16,30.7351,79.0666,Uttarakhand,downpour
+2013-06-16,30.4954,78.3881,Uttarakhand,rain
+2013-06-16,30.885,78.6695,Uttarakhand,rain
+2013-06-16,30.5728,77.6521,Himachal Pradesh,rain
+2013-06-16,30.6738,77.3544,Himachal Pradesh,rain
+2013-06-16,31.4551,78.1996,Himachal Pradesh,rain
+2013-06-16,29.7986,80.417,Uttarakhand,rain
+2013-06-17,29.5987,79.6592,Uttarakhand,downpour
+2013-06-17,31.6223,78.0193,Himachal Pradesh,downpour
+2013-06-17,30.6945,79.0544,Uttarakhand,downpour
+2013-06-17,30.3069,78.0169,Uttarakhand,rain
+2013-06-18,19.0811,73.0226,Maharashtra,continuous_rain
+2013-06-18,12.8446,75.2476,Karnataka,rain
+2013-06-18,30.3797,78.5017,Uttarakhand,rain
+2013-06-19,29.5935,79.6805,Uttarakhand,rain
+2013-06-24,30.4542,78.3911,Uttarakhand,downpour
+2013-06-24,30.2524,78.9228,Uttarakhand,downpour
+2013-06-24,30.4091,79.0579,Uttarakhand,rain
+2013-06-25,10.9628,77.5947,Tamil Nādu,downpour
+2013-06-25,16.9214,73.593,Maharashtra,monsoon
+2013-06-25,11.4991,76.4949,Tamil Nadu,downpour
+2013-06-27,27.3765,88.7628,Sikkim,downpour
+2013-07-01,26.1147,94.3864,Nāgāland,downpour
+2013-07-01,26.72,95.029,Nāgāland,downpour
+2013-07-02,31.0722,77.1402,Himachal Pradesh,downpour
+2013-07-03,15.4123,74.2664,,downpour
+2013-07-04,30.0712,80.2386,Uttarakhand,continuous_rain
+2013-07-04,30.1719,80.8576,Uttarakhand,continuous_rain
+2013-07-04,29.58,80.2214,Uttarakhand,downpour
+2013-07-05,33.0852,74.8799,Kashmir,downpour
+2013-07-06,31.1628,77.7241,Himachal Pradesh,downpour
+2013-07-06,31.9906,76.7907,Himachal Pradesh,downpour
+2013-07-07,31.9671,76.8521,Himachal Pradesh,downpour
+2013-07-07,31.7017,76.973,Himachal Pradesh,downpour
+2013-07-07,31.7093,76.9297,Himachal Pradesh,downpour
+2013-07-07,31.5596,77.1679,Himachal Pradesh,downpour
+2013-07-07,31.7018,76.9424,Himachal Pradesh,downpour
+2013-07-07,31.8795,76.9161,Himachal Pradesh,downpour
+2013-07-07,31.703,76.936,Himachal Pradesh,rain
+2013-07-08,33.3118,75.7525,Kashmir,downpour
+2013-07-10,19.0222,72.8663,Maharashtra,downpour
+2013-07-10,30.3629,79.2143,Uttarakhand,rain
+2013-07-10,19.0263,72.8676,Maharashtra,downpour
+2013-07-11,26.9734,87.3412,Jharkhand,continuous_rain
+2013-07-12,29.3802,79.4633,Uttarakhand,downpour
+2013-07-12,25.6269,94.1139,Nāgāland,downpour
+2013-07-12,25.616,94.1167,Nāgāland,downpour
+2013-07-14,32.17,77.1788,Himachal Pradesh,downpour
+2013-07-14,31.673,76.5338,Himachal Pradesh,rain
+2013-07-14,30.6738,77.3544,Himachal Pradesh,rain
+2013-07-14,31.4711,77.6746,Himachal Pradesh,downpour
+2013-07-15,25.6269,94.1139,Nāgāland,rain
+2013-07-17,25.7658,93.9413,Nāgāland,rain
+2013-07-17,25.7131,94.0885,Nāgāland,rain
+2013-07-18,30.4043,79.3308,Uttarakhand,downpour
+2013-07-18,30.7314,78.4347,Uttarakhand,downpour
+2013-07-19,30.0718,80.2369,Uttarakhand,downpour
+2013-07-23,30.2902,79.151,Uttarakhand,downpour
+2013-07-23,30.1944,79.1939,Uttarakhand,downpour
+2013-07-24,30.262,79.2191,Uttarakhand,downpour
+2013-07-24,30.3056,79.3286,Uttarakhand,downpour
+2013-07-24,30.4605,79.4774,Uttarakhand,continuous_rain
+2013-07-24,30.9058,78.0906,Uttarakhand,downpour
+2013-07-24,30.301,79.3628,Uttarakhand,downpour
+2013-07-24,30.2733,79.233,Uttarakhand,downpour
+2013-07-24,19.1711,73.0207,Maharashtra,downpour
+2013-07-25,30.4041,79.3276,Uttarakhand,continuous_rain
+2013-07-25,30.8928,78.48,Uttarakhand,continuous_rain
+2013-07-25,30.8203,78.6185,Uttarakhand,continuous_rain
+2013-07-25,30.7866,78.6171,Uttarakhand,continuous_rain
+2013-07-25,19.3379,73.7767,Maharashtra,downpour
+2013-07-25,11.3192,76.5959,Tamil Nadu,downpour
+2013-07-26,30.6539,78.3366,Uttarakhand,rain
+2013-07-26,30.2835,79.2498,Uttarakhand,rain
+2013-07-27,30.4521,78.754,Uttarakhand,rain
+2013-07-27,24.3599,85.6179,Jharkhand,downpour
+2013-07-28,30.819,78.6149,Uttarakhand,downpour
+2013-07-28,29.9964,80.201,Uttarakhand,downpour
+2013-07-29,32.9918,75.1945,Kashmir,rain
+2013-07-31,30.3822,78.0949,Uttarakhand,downpour
+2013-07-31,29.5952,79.6625,Uttarakhand,downpour
+2013-08-01,34.4332,76.2851,Kashmir,downpour
+2013-08-01,27.8837,93.0515,Arunachal Pradesh,rain
+2013-08-02,32.5282,75.1199,Kashmir,continuous_rain
+2013-08-04,9.9147,77.011,Kerala,continuous_rain
+2013-08-04,9.9995,77.0309,Kerala,monsoon
+2013-08-04,26.284,94.5808,Nāgāland,continuous_rain
+2013-08-04,10.3228,76.4319,Kerala,downpour
+2013-08-04,25.8376,94.5234,Nāgāland,continuous_rain
+2013-08-04,26.1807,94.5497,Nāgāland,monsoon
+2013-08-04,26.1498,94.6055,Nāgāland,monsoon
+2013-08-04,26.0137,94.5163,Nāgāland,continuous_rain
+2013-08-04,26.0481,94.4619,Nāgāland,continuous_rain
+2013-08-04,26.0838,94.564,Nāgāland,rain
+2013-08-04,26.2083,94.5438,Nāgāland,monsoon
+2013-08-05,10.3228,76.4319,Kerala,monsoon
+2013-08-05,10.0539,76.8294,Kerala,monsoon
+2013-08-05,9.8957,76.9346,Kerala,monsoon
+2013-08-05,10.0539,76.8298,Kerala,monsoon
+2013-08-05,9.879,76.9683,Kerala,monsoon
+2013-08-05,9.8539,76.9468,Kerala,monsoon
+2013-08-05,29.5659,80.3657,Uttarakhand,monsoon
+2013-08-06,32.8363,75.1489,Kashmir,downpour
+2013-08-07,10.3031,76.7604,Kerala,monsoon
+2013-08-07,32.2322,76.3037,Himachal Pradesh,downpour
+2013-08-07,9.835,76.8661,Kerala,monsoon
+2013-08-07,10.0606,76.6331,Kerala,monsoon
+2013-08-09,25.318,94.0441,Nāgāland,downpour
+2013-08-10,21.786,83.8847,Orissa,downpour
+2013-08-11,26.7103,94.693,Assam,downpour
+2013-08-13,30.6014,78.3449,Uttarakhand,downpour
+2013-08-13,34.2601,75.4466,Kashmir,downpour
+2013-08-14,33.4431,75.1915,Kashmir,downpour
+2013-08-14,33.7706,74.0967,Kashmir,downpour
+2013-08-14,33.7705,74.0967,Kashmir,downpour
+2013-08-14,33.0498,74.6264,Kashmir,downpour
+2013-08-14,33.3018,75.1793,Kashmir,downpour
+2013-08-14,32.9913,75.1915,Kashmir,downpour
+2013-08-14,33.3216,75.1984,Kashmir,downpour
+2013-08-15,32.3573,77.3052,Himachal Pradesh,downpour
+2013-08-15,25.3833,94.1884,Nāgāland,downpour
+2013-08-16,26.3897,94.9439,Nāgāland,rain
+2013-08-16,26.8727,94.9275,Assam,rain
+2013-08-16,26.4205,94.9731,Nāgāland,rain
+2013-08-17,24.7625,93.4341,Assam,continuous_rain
+2013-08-17,31.0343,78.7248,Uttarakhand,rain
+2013-08-17,30.7292,78.4396,Uttarakhand,rain
+2013-08-17,15.5419,73.9214,Goa,downpour
+2013-08-18,30.3642,79.3158,Uttarakhand,rain
+2013-08-18,30.742,78.4543,Uttarakhand,rain
+2013-08-18,30.6639,78.0574,Uttarakhand,rain
+2013-08-19,34.0942,74.0226,Kashmir,tropical_cyclone
+2013-08-19,30.6293,78.3303,Uttarakhand,downpour
+2013-08-21,31.5375,77.3737,Himachal Pradesh,downpour
+2013-08-22,19.0402,72.9089,Maharashtra,continuous_rain
+2013-08-28,29.9531,78.1514,Uttarakhand,downpour
+2013-09-01,24.9037,93.487,Manipur,continuous_rain
+2013-09-01,27.3425,88.2426,Sikkim,downpour
+2013-09-01,24.9829,93.5063,Assam,continuous_rain
+2013-09-02,27.1614,93.7525,Arunāchal Pradesh,downpour
+2013-09-02,28.611,94.9829,Arunāchal Pradesh,downpour
+2013-09-07,27.3736,88.7323,Sikkim,rain
+2013-09-08,27.6047,88.6463,,rain
+2013-09-16,27.0599,88.4674,Bengal,downpour
+2013-09-25,21.6989,74.172,Maharashtra,downpour
+2013-10-05,25.8266,94.1497,Nāgāland,continuous_rain
+2013-10-06,26.1309,91.8383,Assam,downpour
+2013-10-06,15.6365,74.1158,,downpour
+2013-10-06,26.1665,91.7049,Assam,downpour
+2013-10-11,32.3665,77.0857,Himachal Pradesh,downpour
+2013-10-13,25.426,94.6024,Manipur,downpour
+2013-10-18,30.5345,79.0853,Uttarakhand,rain
+2013-10-25,16.5175,80.6117,Andhra Pradesh,rain
+2013-11-13,8.4863,76.9517,Kerala,downpour
+2013-11-13,8.4951,76.921,Kerala,downpour
+2013-11-13,18.7654,73.364,Maharashtra,downpour
+2013-11-13,8.1747,77.444,Tamil Nadu,downpour
+2013-11-13,8.4557,77.009,Kerala,downpour
+2013-11-17,13.6529,79.3439,Andhra Pradesh,downpour
+2013-11-24,11.344,76.8691,Tamil Nadu,downpour
+2014-03-11,34.0823,74.056,Kashmir,continuous_rain
+2014-05-04,11.3403,76.8267,Tamil Nadu,rain
+2014-05-07,18.5158,73.1822,Maharashtra,rain
+2014-05-08,27.9032,96.174,Arunachal Pradesh,rain
+2014-05-09,24.8669,92.3576,Assam,rain
+2014-05-12,34.0893,74.0241,Kashmir,rain
+2014-05-14,33.2394,75.2405,Kashmir,rain
+2014-05-22,15.4951,73.8288,Goa,downpour
+2014-06-22,9.9983,76.7329,Kerala,rain
+2014-06-26,26.1407,91.7645,Assam,continuous_rain
+2014-06-26,26.1844,91.7896,Assam,continuous_rain
+2014-06-26,28.9205,95.3429,Arunachal Pradesh,continuous_rain
+2014-06-27,26.1619,91.7697,Assam,rain
+2014-06-28,26.1964,91.7652,Assam,rain
+2014-07-14,23.7327,92.7463,Mizoram,downpour
+2014-07-15,27.059,88.4694,West Bengal,rain
+2014-07-19,30.4305,78.0803,Uttarakhand,rain
+2014-07-20,30.6326,78.9953,Uttarakhand,continuous_rain
+2014-07-22,33.2395,75.2406,Kashmir,rain
+2014-07-23,29.1585,79.1464,Uttarakhand,continuous_rain
+2014-07-28,29.5829,80.2182,Uttarakhand,continuous_rain
+2014-07-30,19.162,73.6873,Maharashtra,continuous_rain
+2014-08-02,9.9431,76.3738,Kerala,continuous_rain
+2014-08-03,19.1497,83.6299,State of Odisha,continuous_rain
+2014-08-04,30.709,76.9834,Haryana,downpour
+2014-08-14,23.0137,91.7174,Tripura,downpour
+2014-08-15,30.1176,78.7472,Uttarakhand,rain
+2014-08-16,33.0272,74.9465,Kashmir,downpour
+2014-08-17,34.5382,74.2493,Kashmir,downpour
+2014-08-17,27.0869,93.6086,Arunachal Pradesh,downpour
+2014-08-18,30.9936,78.4594,Uttarakhand,downpour
+2014-08-20,20.5349,73.1703,Gujarat,rain
+2014-08-22,11.683,77.571,Tamil Nadu,downpour
+2014-09-02,19.2677,73.0618,Maharashtra,continuous_rain
+2014-09-03,33.1253,74.8288,Kashmir,downpour
+2014-09-04,33.0086,74.9426,Kashmir,downpour
+2014-09-04,33.798,74.2562,Kashmir,rain
+2014-09-06,33.3551,74.5128,Kashmir,continuous_rain
+2014-09-06,32.8468,75.137,Kashmir,rain
+2014-09-06,33.5405,74.3723,Kashmir,downpour
+2014-09-06,32.9148,75.0556,Kashmir,rain
+2014-09-07,33.0677,75.1466,Kashmir,downpour
+2014-09-11,24.1965,73.703,Rajasthan,continuous_rain
+2014-09-11,30.688,79.0478,Uttarakhand,downpour
+2014-09-21,25.7354,90.3852,Meghalaya,continuous_rain
+2014-09-22,26.1001,91.6849,Assam,rain
+2014-09-22,26.1314,91.7548,Assam,rain
+2014-09-22,26.1985,91.7998,Assam,rain
+2014-09-22,26.1295,91.7056,Assam,rain
+2014-09-22,26.1097,91.7747,Assam,rain
+2014-09-22,26.1044,91.7082,Assam,rain
+2014-09-22,26.1324,91.8342,Assam,rain
+2014-09-22,26.159,91.8178,Assam,rain
+2014-09-23,25.7238,89.9032,Assam,continuous_rain
+2014-09-23,25.5772,91.8666,Meghalaya,continuous_rain
+2014-09-24,25.8143,90.5763,Meghalaya,continuous_rain
+2014-09-26,33.0365,74.4889,Kashmir,continuous_rain
+2014-10-05,25.9702,91.8587,Meghalaya,rain
+2014-10-09,10.9654,76.5516,Kerala,flooding
+2014-10-12,19.2046,84.1917,Odisha,tropical_cyclone
+2014-10-12,18.3297,82.9565,Andhra Pradesh,tropical_cyclone
+2014-10-12,19.1008,84.0502,Odisha,tropical_cyclone
+2014-10-20,25.5006,90.0896,Meghalaya,rain
+2014-10-27,10.2379,77.6377,Tamil Nadu,downpour
+2014-11-07,32.9411,75.0922,Kashmir,downpour
+2015-03-02,33.3296,75.203,Kashmir,continuous_rain
+2015-03-05,34.2092,74.321,Kashmir,continuous_rain
+2015-03-10,32.5612,76.1238,Himachal Pradesh,downpour
+2015-03-15,34.0968,74.4117,Kashmir,continuous_rain
+2015-03-15,33.8911,74.9781,Kashmir,continuous_rain
+2015-03-15,33.7732,74.1011,Kashmir,rain
+2015-03-15,34.1327,74.5594,Kashmir,continuous_rain
+2015-03-15,34.0786,74.3836,Kashmir,continuous_rain
+2015-03-19,25.0318,92.4584,Assam,rain
+2015-03-21,33.1754,75.8103,Kashmir,continuous_rain
+2015-03-23,33.7099,74.7959,Kashmir,continuous_rain
+2015-03-23,34.0796,74.0357,Kashmir,continuous_rain
+2015-03-28,33.9548314,74.79428356,Kashmir,downpour
+2015-03-28,33.0186,75.2405,Kashmir,downpour
+2015-03-30,34.0096,74.5915,Kashmir,continuous_rain
+2015-03-30,33.9445,74.799,Kashmir,continuous_rain
+2015-03-30,33.9344,74.6566,Kashmir,continuous_rain
+2015-04-02,34.1587,74.4725,Kashmir,continuous_rain
+2015-04-03,34.0604,74.4203,Kashmir,continuous_rain
+2015-04-03,34.0886,74.0301,Kashmir,continuous_rain
+2015-04-03,32.2934,77.1803,Himachal Pradesh,downpour
+2015-04-03,33.1445,75.5469,Kashmir,continuous_rain
+2015-04-03,34.0978,74.4016,Kashmir,continuous_rain
+2015-04-05,33.9243,74.6163,Kashmir,continuous_rain
+2015-04-07,34.2088,74.3279,Kashmir,continuous_rain
+2015-04-08,34.6609,73.9593,Kashmir,continuous_rain
+2015-04-22,12.8659,74.8852,Karnataka,downpour
+2015-04-28,30.5631,79.5765,Uttarakhand,continuous_rain
+2015-04-30,30.5568,79.5541,Uttarakhand,continuous_rain
+2015-05-14,33.6303,74.4838,Kashmir,downpour
+2015-05-30,34.2607,75.4446,Kashmir,rain
+2015-06-09,27.0987,93.816,Arunachal Pradesh,continuous_rain
+2015-06-12,19.1209,72.8406,Maharashtra,downpour
+2015-06-13,25.463,92.2121,Meghalaya,continuous_rain
+2015-06-13,27.0165,88.2476,West Bengal,downpour
+2015-06-16,25.5084,90.2191,Meghalaya,downpour
+2015-06-16,25.5114,90.215,Meghalaya,downpour
+2015-06-17,26.9974,88.4314,West Bengal,downpour
+2015-06-17,27.0257,88.4301,West Bengal,downpour
+2015-06-17,27.0087,88.443,West Bengal,downpour
+2015-06-18,15.4465,73.927,Goa,continuous_rain
+2015-06-19,25.16,93.686,Manipur,monsoon
+2015-06-19,23.7131,92.7362,Mizoram,rain
+2015-06-21,18.7833,73.4703,Maharashtra,continuous_rain
+2015-06-21,30.0261,78.6278,Uttarakhand,rain
+2015-06-22,17.5861,73.1742,Maharashtra,downpour
+2015-06-22,18.7686,73.3678,Maharashtra,monsoon
+2015-06-22,19.029,73.311,Maharashtra,continuous_rain
+2015-06-24,26.0319,94.5466,Nagaland,continuous_rain
+2015-06-25,34.6056,76.0539,Kashmir,downpour
+2015-06-25,30.6838,79.0479,Uttarakhand,downpour
+2015-06-25,34.141,74.6568,Kashmir,downpour
+2015-06-27,27.0076,88.251,West Bengal,downpour
+2015-06-29,27.0161,88.2478,West Bengal,downpour
+2015-06-30,26.8843,88.1835,West Bengal,downpour
+2015-06-30,27.0875,88.6556,West Bengal,downpour
+2015-06-30,25.4243,88.2746,West Bengal,downpour
+2015-07-01,26.8352,88.1881,West Bengal,downpour
+2015-07-01,26.9978,88.167,West Bengal,downpour
+2015-07-01,27.0678,88.456,West Bengal,downpour
+2015-07-01,26.8781,88.2807,West Bengal,downpour
+2015-07-01,26.8811,88.2779,West Bengal,downpour
+2015-07-06,29.393,79.4525,Uttarakhand,downpour
+2015-07-07,27.0816,88.4397,Sikkim,continuous_rain
+2015-07-07,26.8826,88.2806,West Bengal,continuous_rain
+2015-07-08,12.9455,75.7797,Karnataka,rain
+2015-07-10,29.3908,79.4552,Uttarakhand,continuous_rain
+2015-07-10,34.0404,75.3156,Kashmir,continuous_rain
+2015-07-11,32.9262,75.1447,Kashmir,continuous_rain
+2015-07-11,30.3799,78.4862,Uttarakhand,continuous_rain
+2015-07-11,30.241,78.9,Uttarakhand,continuous_rain
+2015-07-12,33.2049,75.2845,Kashmir,continuous_rain
+2015-07-12,33.2504,75.2102,Kashmir,continuous_rain
+2015-07-13,32.2473,78.037,Himachal Pradesh,continuous_rain
+2015-07-13,31.0851,77.1665,Himachal Pradesh,continuous_rain
+2015-07-14,12.8747,74.9566,Karnataka,continuous_rain
+2015-07-15,27.36,93.0385,Arunachal Pradesh,monsoon
+2015-07-18,24.0406,84.0696,Jharkhand,continuous_rain
+2015-07-18,32.2239,76.3226,Himachal Pradesh,monsoon
+2015-07-19,30.73,78.4378,Uttarakhand,continuous_rain
+2015-07-19,18.7632,73.347,Maharashtra,continuous_rain
+2015-07-19,14.8937,74.5828,Karnataka,continuous_rain
+2015-07-19,30.0705,80.2364,Uttarakhand,monsoon
+2015-07-21,33.7403,77.7559,Kashmir,continuous_rain
+2015-07-21,34.2689,75.1495,Kashmir,continuous_rain
+2015-07-21,33.616,77.7652,Kashmir,continuous_rain
+2015-07-22,24.7979,92.9974,Assam,continuous_rain
+2015-07-22,25.5098,93.8794,Manipur,continuous_rain
+2015-07-22,25.5007,93.9854,Manipur,continuous_rain
+2015-07-22,25.3908,94.0926,Manipur,continuous_rain
+2015-07-22,25.4477,94.0489,Manipur,continuous_rain
+2015-07-22,25.4538,93.9827,Manipur,continuous_rain
+2015-07-24,30.416,78.3415,Uttarakhand,continuous_rain
+2015-07-24,24.9818,93.5142,Manipur,monsoon
+2015-07-24,29.5863,80.2186,Uttarakhand,continuous_rain
+2015-07-24,30.4528,78.1045,Uttarakhand,continuous_rain
+2015-07-24,30.4517,78.1443,Uttarakhand,continuous_rain
+2015-07-24,34.258,75.4189,Kashmir,continuous_rain
+2015-07-25,15.3904,73.8182,Goa,downpour
+2015-07-25,26.1062,91.8717,Assam,continuous_rain
+2015-07-26,32.5606,76.1206,Himachal Pradesh,continuous_rain
+2015-07-26,31.7085,76.9297,Himachal Pradesh,continuous_rain
+2015-07-26,31.1003,77.1751,Himachal Pradesh,continuous_rain
+2015-07-26,31.9563,77.1135,Himachal Pradesh,continuous_rain
+2015-07-26,30.2411,78.9014,Uttarakhand,continuous_rain
+2015-07-26,31.1263,77.3525,Himachal Pradesh,continuous_rain
+2015-07-27,33.2706,75.7702,Kashmir,downpour
+2015-07-28,24.5938,72.7308,Rajasthan,continuous_rain
+2015-07-28,30.7204,79.0758,Uttarakhand,continuous_rain
+2015-07-31,32.2241,76.3374,Himachal Pradesh,continuous_rain
+2015-07-31,25.0634,94.3415,Manipur,continuous_rain
+2015-07-31,24.819,94.3551,Manipur,continuous_rain
+2015-08-01,24.1988,94.1016,Manipur,continuous_rain
+2015-08-01,24.4072,94.0644,Manipur,continuous_rain
+2015-08-01,24.9111,94.4759,Manipur,continuous_rain
+2015-08-01,24.1419,94.1078,Manipur,continuous_rain
+2015-08-01,25.1122,94.3591,Manipur,continuous_rain
+2015-08-01,24.4265,94.1913,Manipur,continuous_rain
+2015-08-01,24.416,94.0984,Manipur,continuous_rain
+2015-08-01,23.9939,94.0573,Manipur,continuous_rain
+2015-08-01,25.1941,94.4481,Manipur,continuous_rain
+2015-08-01,23.9278,94.0906,Manipur,rain
+2015-08-01,18.7687,73.3679,Maharashtra,continuous_rain
+2015-08-01,23.899,94.1434,Manipur,rain
+2015-08-01,31.0358,78.8578,Uttarakhand,continuous_rain
+2015-08-01,24.954,94.2156,Manipur,continuous_rain
+2015-08-01,24.004,93.9815,Manipur,continuous_rain
+2015-08-02,25.72,94.6219,Nagaland,continuous_rain
+2015-08-06,11.6753,92.749,Andaman and Nicobar Islands,downpour
+2015-08-07,18.7631,73.347,Maharashtra,continuous_rain
+2015-08-08,31.8028,76.757,Himachal Pradesh,downpour
+2015-08-08,32.9961,75.1994,Kashmir,downpour
+2015-08-09,31.6916,76.5102,Himachal Pradesh,rain
+2015-08-09,33.3852,74.2562,Kashmir,downpour
+2015-08-11,31.3237,76.7622,Himachal Pradesh,downpour
+2015-08-11,24.7016,93.5291,Manipur,continuous_rain
+2015-08-11,32.1967,76.3194,Himachal Pradesh,rain
+2015-08-11,25.1019,93.3729,Manipur,continuous_rain
+2015-08-11,24.7459,93.4251,Manipur,continuous_rain
+2015-08-12,25.6237,94.1136,Nagaland,continuous_rain
+2015-08-12,32.1764,76.3075,Himachal Pradesh,monsoon
+2015-08-15,18.7631,73.3471,Maharashtra,monsoon
+2015-08-15,30.9085,78.3299,Uttarakhand,continuous_rain
+2015-08-15,30.9111,78.6814,Uttarakhand,continuous_rain
+2015-08-15,30.6494,79.5269,Uttarakhand,continuous_rain
+2015-08-15,30.7864,78.616,Uttarakhand,continuous_rain
+2015-08-16,27.8835,96.9262,Arunachal Pradesh,continuous_rain
+2015-08-18,32.0275,77.3446,Himachal Pradesh,rain
+2015-08-18,25.5145,90.2023,Meghalaya,continuous_rain
+2015-08-19,25.6278,94.1051,Nagaland,continuous_rain
+2015-08-19,25.2193,90.5549,Meghalaya,continuous_rain
+2015-08-19,25.2568,92.3825,Meghalaya,rain
+2015-08-19,25.1416,92.3807,Meghalaya,rain
+2015-08-19,26.0214,94.5224,Nagaland,continuous_rain
+2015-08-19,25.0728,92.3636,Meghalaya,rain
+2015-08-20,25.6263,94.1057,Nagaland,continuous_rain
+2015-08-22,31.0365,77.1213,Himachal Pradesh,downpour
+2015-08-22,26.1028,91.8806,Assam,continuous_rain
+2015-08-26,23.8447,93.0514,Mizoram,continuous_rain
+2015-08-26,23.3572,92.7878,Mizoram,continuous_rain
+2015-08-27,24.042,92.6724,Mizoram,downpour
+2015-08-27,23.7269,92.7265,Mizoram,downpour
+2015-08-28,23.4495,92.8112,Mizoram,downpour
+2015-09-01,26.49349035,91.72137514,Assam,rain
+2015-09-01,26.1868,91.6739,Assam,rain
+2015-09-14,23.7313,92.7187,Mizoram,downpour
+2015-09-14,23.7348,92.7187,Mizoram,downpour
+2015-09-15,18.7734,82.8555,Odisha,downpour
+2015-09-16,18.7828,82.7935,Odisha,downpour
+2015-09-16,19.316,83.2414,Odisha,downpour
+2015-09-21,19.4662,72.8276,Maharashtra,downpour
+2015-09-23,25.583,91.893,Meghalaya,downpour
+2015-09-23,26.1666,91.7042,Assam,continuous_rain
+2015-10-02,17.6874,83.1993,Andhra Pradesh,downpour
+2015-10-25,33.3041,75.1982,Kashmir,downpour
+2015-10-31,11.374,77.8987,Tamil Nadu,downpour
+2015-10-31,11.3742,77.899,Tamil Nadu,downpour
+2015-11-14,12.9746,80.2119,Tamil Nadu,rain
+2015-12-07,10.2288,77.4767,Tamil Nadu,rain
+2015-12-19,17.7345,83.2884,Andhra Pradesh,downpour
+2016-03-26,33.04965334,75.29048614,Kashmir,continuous_rain
+2016-04-04,34.4002,74.2798,Kashmir,continuous_rain
+2016-04-19,26.7223,95.0243,Nagaland,continuous_rain
+2016-04-22,27.5799,91.8569,Arunachal Pradesh,continuous_rain
+2016-05-01,28.0822,96.5316,Arunachal Pradesh,downpour
+2016-05-18,24.5204,92.7264,Assam,continuous_rain
+2016-05-18,24.5202,92.7239,Assam,continuous_rain
+2016-05-18,24.4638,92.4943,Assam,continuous_rain
+2016-05-18,24.5308,92.5121,Assam,continuous_rain
+2016-05-22,30.306,78.0648,Uttarakhand,rain
+2016-05-23,30.7007,77.8644,Uttarakhand,rain
+2016-06-02,16.5145,80.6526,Andhra Pradesh,downpour
+2016-06-05,24.6997,85.6285,Bihar,downpour
+2016-06-08,34.2952,75.3226,Kashmir,downpour
+2016-06-12,27.6438,93.871,Arunachal Pradesh,downpour
+2016-06-12,26.1677,94.2442,Nagaland,continuous_rain
+2016-06-14,26.3185,94.5247,Nagaland,continuous_rain
+2016-06-15,9.7967,77.0611,Kerala,downpour
+2016-06-17,31.5124,78.1181,Himachal Pradesh,monsoon
+2016-06-18,15.0275,74.1623,Goa,downpour
+2016-06-21,32.99,75.1892,Kashmir,downpour
+2016-06-21,19.19,73.009,Maharashtra,downpour
+2016-06-22,26.1961,91.7825,Assam,downpour
+2016-06-23,15.3739,73.8911,Goa,downpour
+2016-06-24,12.8157,74.8586,Karnataka,downpour
+2016-06-26,18.241,73.4469,Maharashtra,rain
+2016-06-26,19.3805,84.5699,Odisha,downpour
+2016-06-28,15.3455,73.8976,Goa,downpour
+2016-06-29,30.3299,79.3206,Uttarakhand,downpour
+2016-06-30,29.8002,80.2565,Uttarakhand,monsoon
+2016-07-01,27.0136,92.6351,Arunachal Pradesh,downpour
+2016-07-02,30.89221723,77.09003076,Himachal Pradesh,downpour
+2016-07-03,19.336,73.7793,Maharashtra,monsoon
+2016-07-07,25.0118,94.3136,Manipur,monsoon
+2016-07-07,25.9611,91.3681,Assam,continuous_rain
+2016-07-10,25.7902,94.1318,Nagaland,downpour
+2016-07-12,15.6019,73.8093,Goa,monsoon
+2016-07-13,26.3221,80.4703,Uttar Pradesh,monsoon
+2016-07-14,26.1768,91.7702,Assam,monsoon
+2016-07-14,26.1963,91.8074,Assam,monsoon
+2016-07-16,30.4554,78.0973,Uttarakhand,downpour
+2016-07-16,30.3351,78.5113,Uttarakhand,rain
+2016-07-16,27.3034,93.804,Arunachal Pradesh,downpour
+2016-07-17,29.9551,78.1677,Uttarakhand,downpour
+2016-07-17,30.1642,78.2936,Uttarakhand,downpour
+2016-07-18,30.7313,78.4358,Uttarakhand,rain
+2016-07-19,28.235,94.9612,Arunachal Pradesh,downpour
+2016-07-19,25.203,90.5573,Meghalaya,continuous_rain
+2016-07-20,27.1176,88.1069,West Bengal,downpour
+2016-07-20,26.1966,91.802,Assam,rain
+2016-07-21,26.9015,88.4719,West Bengal,rain
+2016-07-23,16.0781,78.8743,Andhra Pradesh,downpour
+2016-07-25,25.48,94.1383,Manipur,continuous_rain
+2016-07-26,30.6935,77.4266,Himachal Pradesh,downpour
+2016-07-26,26.0101,94.5282,Nagaland,downpour
+2016-07-26,27.1027,88.1218,West Bengal,downpour
+2016-07-28,27.5748,91.8644,Arunachal Pradesh,monsoon
+2016-07-28,25.8702,94.7844,Nagaland,downpour
+2016-07-28,23.5397,93.3783,Mizoram,continuous_rain
+2016-07-31,25.4941,82.5725,Uttar Pradesh,rain
+2016-07-31,19.1869,73.02,Maharashtra,downpour
+2016-07-31,30.9753,78.4375,Uttarakhand,continuous_rain
+2016-07-31,31.6865,77.1043,Himachal Pradesh,rain
+2016-08-02,19.3421,73.7735,Maharashtra,monsoon
+2016-08-03,18.3978,73.5086,Maharashtra,downpour
+2016-08-04,30.7386,79.4954,Uttarakhand,continuous_rain
+2016-08-05,29.5866,80.2154,Uttarakhand,downpour
+2016-08-05,27.5754,91.9754,Arunachal Pradesh,downpour
+2016-08-05,33.0068,74.9455,Kashmir,downpour
+2016-08-07,32.4298,75.5807,Kashmir,continuous_rain
+2016-08-07,32.6987,75.0582,Kashmir,continuous_rain
+2016-08-07,33.2483,75.2131,Kashmir,downpour
+2016-08-07,33.0716,74.839,Kashmir,continuous_rain
+2016-08-07,33.1457,75.7964,Kashmir,continuous_rain
+2016-08-07,32.9834,75.6953,Kashmir,continuous_rain
+2016-08-07,32.9041,75.0911,Kashmir,continuous_rain
+2016-08-29,31.5728,77.8561,Himachal Pradesh,continuous_rain
+2016-10-11,14.8009,74.118,Karnataka,downpour
+2016-10-12,27.2676,88.2891,Sikkim,continuous_rain
+2016-10-12,26.8861,88.1704,West Bengal,downpour
+2016-10-12,26.8692,88.4695,West Bengal,downpour
+2016-10-15,26.9343,88.4486,West Bengal,downpour
+2016-10-15,27.172,88.5292,Sikkim,downpour
+2016-10-15,27.1695,88.3664,Sikkim,rain

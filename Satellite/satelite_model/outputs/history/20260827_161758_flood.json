@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-08-27T16:17:58.528366+00:00",
+  "disaster": "flood",
+  "sensor": "Sentinel-2",
+  "product": "S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+  "satellite": "Sentinel-2 L2A",
+  "scene": {
+    "width": 10980,
+    "height": 10980
+  },
+  "risk": "MEDIUM",
+  "alert": true,
+  "flood_pixels": 483551,
+  "flood_percentage": 0.40108609460486194,
+  "maximum_mndwi": 0.6263548135757446,
+  "mean_mndwi": -0.18732121586799622,
+  "median_mndwi": -0.22062832117080688,
+  "detected_regions": 383,
+  "geojson": "D:\\Disaster-management\\Backend\\sattelite_model\\outputs\\flood_regions.geojson"
+}

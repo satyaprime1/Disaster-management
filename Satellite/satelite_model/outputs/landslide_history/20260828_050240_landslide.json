@@ -1,0 +1,13 @@
+{
+  "disaster": "landslide",
+  "alert": false,
+  "risk": "LOW",
+  "reason": "Baseline created; waiting for a comparable Sentinel-1 observation.",
+  "product": "S1D_IW_GRDH_1SDV_20260827T234812_20260827T234832_004318_007F6B_A893.SAFE",
+  "satellite": "Sentinel-1 GRD",
+  "sensor": "Sentinel-1",
+  "baseline_key": "S1D_IW_ORBIT_004318",
+  "coordinates": [],
+  "detected_regions": 0,
+  "timestamp": "2026-08-28T05:02:40.329898+00:00"
+}

@@ -1,0 +1,48 @@
+{
+    "product_name": "S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+    "product_path": "D:\\Disaster-management\\Backend\\data\\satellite\\products\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+    "scene_width": 10980,
+    "scene_height": 10980,
+    "rows": 85,
+    "cols": 85,
+    "tile_size": 128,
+    "total_tiles": 7225,
+    "channel_order": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08",
+        "B09",
+        "B10",
+        "B11",
+        "B12",
+        "DEM",
+        "SLOPE"
+    ],
+    "crs": "EPSG:32643",
+    "transform": [
+        10.0,
+        0.0,
+        799980.0,
+        0.0,
+        -10.0,
+        2000040.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "center": {
+        "latitude": 1945135.0,
+        "longitude": 854885.0
+    },
+    "bounds": {
+        "left": 799980.0,
+        "bottom": 1890240.0,
+        "right": 909780.0,
+        "top": 2000040.0
+    }
+}

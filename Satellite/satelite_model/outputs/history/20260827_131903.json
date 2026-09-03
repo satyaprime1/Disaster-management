@@ -1,0 +1,12 @@
+{
+  "disaster": "landslide",
+  "risk": "LOW",
+  "alert": false,
+  "maximum_probability": 0.9999657869338989,
+  "mean_probability": 5.014691851101816e-05,
+  "median_probability": 1.2591081066659626e-08,
+  "affected_pixels": 2202,
+  "affected_area_percent": 0.0018601995025951557,
+  "region_count": 9,
+  "timestamp": "2026-08-27T13:19:02.313425+00:00"
+}

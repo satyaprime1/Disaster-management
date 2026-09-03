@@ -1,0 +1,162 @@
+[
+  {
+    "id": "FLOOD_NEPAL_KOSHI_001",
+    "type": "FLOOD",
+    "disaster": "FLOOD",
+    "country": "Nepal",
+    "region_name": "Koshi River Basin & Terai Plains",
+    "risk": "HIGH",
+    "alert": true,
+    "timestamp": "2026-08-30T09:25:44.877341+00:00",
+    "satellite": "Sentinel-2 L2A + Sentinel-1 SAR",
+    "coordinates": [
+      {
+        "region_id": 101,
+        "name": "Koshi River Basin (Saptari)",
+        "country": "Nepal",
+        "latitude": 26.6542,
+        "longitude": 86.9531,
+        "risk": "HIGH",
+        "probability": 0.942
+      },
+      {
+        "region_id": 102,
+        "name": "Melamchi Flash Flood (Sindhupalchok)",
+        "country": "Nepal",
+        "latitude": 27.832,
+        "longitude": 85.584,
+        "risk": "HIGH",
+        "probability": 0.915
+      },
+      {
+        "region_id": 103,
+        "name": "Narayani River (Chitwan)",
+        "country": "Nepal",
+        "latitude": 27.534,
+        "longitude": 84.452,
+        "risk": "MEDIUM",
+        "probability": 0.84
+      },
+      {
+        "region_id": 104,
+        "name": "Karnali River (Bardiya)",
+        "country": "Nepal",
+        "latitude": 28.452,
+        "longitude": 81.254,
+        "risk": "HIGH",
+        "probability": 0.928
+      },
+      {
+        "region_id": 105,
+        "name": "Bagmati River (Rautahat)",
+        "country": "Nepal",
+        "latitude": 26.852,
+        "longitude": 85.253,
+        "risk": "HIGH",
+        "probability": 0.892
+      }
+    ],
+    "data": {
+      "disaster": "FLOOD",
+      "country": "Nepal",
+      "alert": true,
+      "risk": "HIGH",
+      "satellite": "Sentinel-2 L2A + Sentinel-1 GRD",
+      "sensor": "Sentinel-2 MNDWI & Sentinel-1 SAR",
+      "timestamp": "2026-08-30T09:25:44.876701+00:00",
+      "total_flood_pixels": 145800,
+      "flood_percentage": 0.0842,
+      "maximum_mndwi": 0.612,
+      "mean_mndwi": 0.384,
+      "detected_regions": 5,
+      "coordinates": [
+        {
+          "region_id": 101,
+          "name": "Koshi River Basin (Saptari)",
+          "country": "Nepal",
+          "latitude": 26.6542,
+          "longitude": 86.9531,
+          "risk": "HIGH",
+          "probability": 0.942
+        },
+        {
+          "region_id": 102,
+          "name": "Melamchi Flash Flood (Sindhupalchok)",
+          "country": "Nepal",
+          "latitude": 27.832,
+          "longitude": 85.584,
+          "risk": "HIGH",
+          "probability": 0.915
+        },
+        {
+          "region_id": 103,
+          "name": "Narayani River (Chitwan)",
+          "country": "Nepal",
+          "latitude": 27.534,
+          "longitude": 84.452,
+          "risk": "MEDIUM",
+          "probability": 0.84
+        },
+        {
+          "region_id": 104,
+          "name": "Karnali River (Bardiya)",
+          "country": "Nepal",
+          "latitude": 28.452,
+          "longitude": 81.254,
+          "risk": "HIGH",
+          "probability": 0.928
+        },
+        {
+          "region_id": 105,
+          "name": "Bagmati River (Rautahat)",
+          "country": "Nepal",
+          "latitude": 26.852,
+          "longitude": 85.253,
+          "risk": "HIGH",
+          "probability": 0.892
+        }
+      ]
+    }
+  },
+  {
+    "id": "LANDSLIDE_HYD_001",
+    "type": "LANDSLIDE",
+    "disaster": "LANDSLIDE",
+    "country": "India",
+    "region_name": "Deccan / Hyderabad Topography Scene",
+    "risk": "HIGH",
+    "alert": true,
+    "timestamp": "2026-08-30T09:25:44.877353+00:00",
+    "satellite": "Sentinel-2 L2A + ALOS PALSAR DEM",
+    "coordinates": [
+      {
+        "region_id": 278,
+        "latitude": 17.313439,
+        "longitude": 78.353177,
+        "risk": "HIGH",
+        "probability": 0.9995
+      },
+      {
+        "region_id": 322,
+        "latitude": 17.264542,
+        "longitude": 78.309338,
+        "risk": "HIGH",
+        "probability": 0.9952
+      },
+      {
+        "region_id": 223,
+        "latitude": 17.384961,
+        "longitude": 78.576077,
+        "risk": "HIGH",
+        "probability": 0.9901
+      },
+      {
+        "region_id": 315,
+        "latitude": 17.281825,
+        "longitude": 78.322498,
+        "risk": "HIGH",
+        "probability": 0.9815
+      }
+    ]
+  }
+]

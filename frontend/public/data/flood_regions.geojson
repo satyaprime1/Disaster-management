@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "disaster": "FLOOD",
+        "region_id": 101,
+        "name": "Koshi River Basin & Saptari Inundation Plain",
+        "country": "Nepal",
+        "risk": "HIGH",
+        "probability": 0.942,
+        "maximum_mndwi": 0.584,
+        "flood_pixels": 48200,
+        "affected_area_km2": 4.82,
+        "sensor": "Sentinel-2 (MNDWI) + Sentinel-1 SAR",
+        "timestamp": "2026-08-30T09:25:44.875562+00:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.92,
+              26.62
+            ],
+            [
+              86.99,
+              26.63
+            ],
+            [
+              87.01,
+              26.68
+            ],
+            [
+              86.96,
+              26.7
+            ],
+            [
+              86.91,
+              26.66
+            ],
+            [
+              86.92,
+              26.62
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "disaster": "FLOOD",
+        "region_id": 102,
+        "name": "Melamchi / Sindhupalchok Flash Flood Basin",
+        "country": "Nepal",
+        "risk": "HIGH",
+        "probability": 0.915,
+        "maximum_mndwi": 0.612,
+        "flood_pixels": 21300,
+        "affected_area_km2": 2.13,
+        "sensor": "Sentinel-2 (MNDWI) + Sentinel-1 SAR",
+        "timestamp": "2026-08-30T09:25:44.875594+00:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.56,
+              27.81
+            ],
+            [
+              85.61,
+              27.82
+            ],
+            [
+              85.62,
+              27.86
+            ],
+            [
+              85.57,
+              27.85
+            ],
+            [
+              85.56,
+              27.81
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "disaster": "FLOOD",
+        "region_id": 103,
+        "name": "Narayani / Chitwan Flood Zone",
+        "country": "Nepal",
+        "risk": "MEDIUM",
+        "probability": 0.84,
+        "maximum_mndwi": 0.465,
+        "flood_pixels": 15800,
+        "affected_area_km2": 1.58,
+        "sensor": "Sentinel-2 (MNDWI)",
+        "timestamp": "2026-08-30T09:25:44.875600+00:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.42,
+              27.51
+            ],
+            [
+              84.48,
+              27.52
+            ],
+            [
+              84.49,
+              27.56
+            ],
+            [
+              84.44,
+              27.55
+            ],
+            [
+              84.42,
+              27.51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "disaster": "FLOOD",
+        "region_id": 104,
+        "name": "Karnali / Bardiya Floodplain",
+        "country": "Nepal",
+        "risk": "HIGH",
+        "probability": 0.928,
+        "maximum_mndwi": 0.54,
+        "flood_pixels": 34100,
+        "affected_area_km2": 3.41,
+        "sensor": "Sentinel-1 SAR + Sentinel-2",
+        "timestamp": "2026-08-30T09:25:44.875604+00:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.22,
+              28.42
+            ],
+            [
+              81.29,
+              28.43
+            ],
+            [
+              81.3,
+              28.48
+            ],
+            [
+              81.24,
+              28.47
+            ],
+            [
+              81.22,
+              28.42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "disaster": "FLOOD",
+        "region_id": 105,
+        "name": "Bagmati / Rautahat Inundation Zone",
+        "country": "Nepal",
+        "risk": "HIGH",
+        "probability": 0.892,
+        "maximum_mndwi": 0.51,
+        "flood_pixels": 26400,
+        "affected_area_km2": 2.64,
+        "sensor": "Sentinel-2 (MNDWI)",
+        "timestamp": "2026-08-30T09:25:44.875608+00:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.22,
+              26.82
+            ],
+            [
+              85.28,
+              26.83
+            ],
+            [
+              85.29,
+              26.87
+            ],
+            [
+              85.24,
+              26.86
+            ],
+            [
+              85.22,
+              26.82
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1974 @@
+{
+    "disaster": "landslide",
+    "timestamp": "2026-08-30T07:42:03.441075+00:00",
+    "model": "Attention-ResUNet",
+    "threshold": 0.5,
+    "maximum_probability": 0.9995284080505371,
+    "mean_probability": 0.015946056693792343,
+    "median_probability": 0.014328758232295513,
+    "affected_pixels": 132905,
+    "affected_area_percent": 0.11227512029628028,
+    "risk": "HIGH",
+    "alert": true,
+    "total_tiles": 7225,
+    "successful_tiles": 7225,
+    "failed_tiles": 0,
+    "prediction_height": 10880,
+    "prediction_width": 10880,
+    "affected_regions": [
+        {
+            "region_id": 278,
+            "latitude": 17.31343895502491,
+            "longitude": 78.35317689128408,
+            "max_probability": 0.9995284080505371,
+            "mean_probability": 0.962681770324707,
+            "affected_pixels": 129028
+        },
+        {
+            "region_id": 322,
+            "latitude": 17.264542124961157,
+            "longitude": 78.30933774980453,
+            "max_probability": 0.9951712489128113,
+            "mean_probability": 0.8930734395980835,
+            "affected_pixels": 115
+        },
+        {
+            "region_id": 223,
+            "latitude": 17.384960932748328,
+            "longitude": 78.57607696255192,
+            "max_probability": 0.9901248216629028,
+            "mean_probability": 0.8568833470344543,
+            "affected_pixels": 235
+        },
+        {
+            "region_id": 315,
+            "latitude": 17.28182509971868,
+            "longitude": 78.32249800374927,
+            "max_probability": 0.981533944606781,
+            "mean_probability": 0.8282694816589355,
+            "affected_pixels": 209
+        },
+        {
+            "region_id": 313,
+            "latitude": 17.28282066114479,
+            "longitude": 78.33352253781419,
+            "max_probability": 0.9707509279251099,
+            "mean_probability": 0.8175143599510193,
+            "affected_pixels": 65
+        },
+        {
+            "region_id": 317,
+            "latitude": 17.281615640193017,
+            "longitude": 78.3249032654571,
+            "max_probability": 0.9704883098602295,
+            "mean_probability": 0.8067817687988281,
+            "affected_pixels": 57
+        },
+        {
+            "region_id": 131,
+            "latitude": 17.43260621484702,
+            "longitude": 78.51998089505051,
+            "max_probability": 0.9547978043556213,
+            "mean_probability": 0.7636814713478088,
+            "affected_pixels": 37
+        },
+        {
+            "region_id": 314,
+            "latitude": 17.282533580827156,
+            "longitude": 78.33463841059003,
+            "max_probability": 0.9540432095527649,
+            "mean_probability": 0.7818008661270142,
+            "affected_pixels": 33
+        },
+        {
+            "region_id": 222,
+            "latitude": 17.385450480571723,
+            "longitude": 78.57779485630272,
+            "max_probability": 0.9514307379722595,
+            "mean_probability": 0.7731431722640991,
+            "affected_pixels": 25
+        },
+        {
+            "region_id": 173,
+            "latitude": 17.413361319241,
+            "longitude": 78.3623376568301,
+            "max_probability": 0.9348717331886292,
+            "mean_probability": 0.7483152747154236,
+            "affected_pixels": 208
+        },
+        {
+            "region_id": 191,
+            "latitude": 17.404771275687615,
+            "longitude": 78.37669044865598,
+            "max_probability": 0.9259858131408691,
+            "mean_probability": 0.6821383833885193,
+            "affected_pixels": 600
+        },
+        {
+            "region_id": 71,
+            "latitude": 17.460078026129192,
+            "longitude": 78.39042248638775,
+            "max_probability": 0.9245502352714539,
+            "mean_probability": 0.7769694328308105,
+            "affected_pixels": 101
+        },
+        {
+            "region_id": 169,
+            "latitude": 17.41448532242669,
+            "longitude": 78.36727345205976,
+            "max_probability": 0.9219899773597717,
+            "mean_probability": 0.6545470952987671,
+            "affected_pixels": 46
+        },
+        {
+            "region_id": 170,
+            "latitude": 17.413483218544155,
+            "longitude": 78.37496921392604,
+            "max_probability": 0.9194767475128174,
+            "mean_probability": 0.7328718304634094,
+            "affected_pixels": 231
+        },
+        {
+            "region_id": 242,
+            "latitude": 17.367054857786187,
+            "longitude": 78.5324908673906,
+            "max_probability": 0.8921126127243042,
+            "mean_probability": 0.6864380240440369,
+            "affected_pixels": 71
+        },
+        {
+            "region_id": 209,
+            "latitude": 17.387623820603398,
+            "longitude": 78.59811439186905,
+            "max_probability": 0.8912458419799805,
+            "mean_probability": 0.7436099052429199,
+            "affected_pixels": 84
+        },
+        {
+            "region_id": 33,
+            "latitude": 17.4827948139252,
+            "longitude": 78.31401597421727,
+            "max_probability": 0.8806195259094238,
+            "mean_probability": 0.6967988014221191,
+            "affected_pixels": 17
+        },
+        {
+            "region_id": 199,
+            "latitude": 17.401532520108226,
+            "longitude": 78.33905179202368,
+            "max_probability": 0.8803034424781799,
+            "mean_probability": 0.677169680595398,
+            "affected_pixels": 16
+        },
+        {
+            "region_id": 143,
+            "latitude": 17.422398914066402,
+            "longitude": 78.47981870110863,
+            "max_probability": 0.8749337792396545,
+            "mean_probability": 0.6453163027763367,
+            "affected_pixels": 128
+        },
+        {
+            "region_id": 190,
+            "latitude": 17.407293201445675,
+            "longitude": 78.37728509198475,
+            "max_probability": 0.8676100373268127,
+            "mean_probability": 0.6842095851898193,
+            "affected_pixels": 24
+        },
+        {
+            "region_id": 316,
+            "latitude": 17.28209291783568,
+            "longitude": 78.32395765723666,
+            "max_probability": 0.8651618957519531,
+            "mean_probability": 0.6809890866279602,
+            "affected_pixels": 29
+        },
+        {
+            "region_id": 152,
+            "latitude": 17.422355586845768,
+            "longitude": 78.47013257314345,
+            "max_probability": 0.8641372323036194,
+            "mean_probability": 0.6919862627983093,
+            "affected_pixels": 46
+        },
+        {
+            "region_id": 213,
+            "latitude": 17.389917531190086,
+            "longitude": 78.34242731332033,
+            "max_probability": 0.8372389674186707,
+            "mean_probability": 0.6630750894546509,
+            "affected_pixels": 20
+        },
+        {
+            "region_id": 160,
+            "latitude": 17.419080862764037,
+            "longitude": 78.48053375106048,
+            "max_probability": 0.8076260089874268,
+            "mean_probability": 0.6490954160690308,
+            "affected_pixels": 20
+        },
+        {
+            "region_id": 93,
+            "latitude": 17.445177222907645,
+            "longitude": 78.49814732575081,
+            "max_probability": 0.7977438569068909,
+            "mean_probability": 0.5962628126144409,
+            "affected_pixels": 22
+        },
+        {
+            "region_id": 297,
+            "latitude": 17.309941237636078,
+            "longitude": 78.36538474056485,
+            "max_probability": 0.79095858335495,
+            "mean_probability": 0.6258795857429504,
+            "affected_pixels": 36
+        },
+        {
+            "region_id": 139,
+            "latitude": 17.42607408698057,
+            "longitude": 78.47170489604291,
+            "max_probability": 0.7774813175201416,
+            "mean_probability": 0.6190489530563354,
+            "affected_pixels": 137
+        },
+        {
+            "region_id": 167,
+            "latitude": 17.41423647626744,
+            "longitude": 78.4734556219017,
+            "max_probability": 0.7666878700256348,
+            "mean_probability": 0.6574287414550781,
+            "affected_pixels": 17
+        },
+        {
+            "region_id": 295,
+            "latitude": 17.319641258613558,
+            "longitude": 78.3485772114578,
+            "max_probability": 0.7634679675102234,
+            "mean_probability": 0.6231688261032104,
+            "affected_pixels": 29
+        },
+        {
+            "region_id": 16,
+            "latitude": 17.492963999144727,
+            "longitude": 78.39898381769534,
+            "max_probability": 0.7477333545684814,
+            "mean_probability": 0.6134571433067322,
+            "affected_pixels": 30
+        },
+        {
+            "region_id": 142,
+            "latitude": 17.424823263064933,
+            "longitude": 78.47084200718925,
+            "max_probability": 0.7458491325378418,
+            "mean_probability": 0.6221974492073059,
+            "affected_pixels": 38
+        },
+        {
+            "region_id": 115,
+            "latitude": 17.443099581421578,
+            "longitude": 78.4980850688647,
+            "max_probability": 0.7450845241546631,
+            "mean_probability": 0.6144726872444153,
+            "affected_pixels": 35
+        },
+        {
+            "region_id": 9,
+            "latitude": 17.49315995532898,
+            "longitude": 78.40274963963911,
+            "max_probability": 0.741193413734436,
+            "mean_probability": 0.5507704019546509,
+            "affected_pixels": 29
+        },
+        {
+            "region_id": 94,
+            "latitude": 17.44749059629531,
+            "longitude": 78.355366342092,
+            "max_probability": 0.7318530082702637,
+            "mean_probability": 0.6308438181877136,
+            "affected_pixels": 45
+        },
+        {
+            "region_id": 161,
+            "latitude": 17.417016312238506,
+            "longitude": 78.47556212002364,
+            "max_probability": 0.7280287146568298,
+            "mean_probability": 0.6046662330627441,
+            "affected_pixels": 23
+        },
+        {
+            "region_id": 35,
+            "latitude": 17.482637767269704,
+            "longitude": 78.32427313846736,
+            "max_probability": 0.7173190712928772,
+            "mean_probability": 0.6258931756019592,
+            "affected_pixels": 18
+        },
+        {
+            "region_id": 12,
+            "latitude": 17.492941119331597,
+            "longitude": 78.40128647066355,
+            "max_probability": 0.716385543346405,
+            "mean_probability": 0.5972617864608765,
+            "affected_pixels": 43
+        },
+        {
+            "region_id": 134,
+            "latitude": 17.42834866069413,
+            "longitude": 78.4697026091174,
+            "max_probability": 0.7028880715370178,
+            "mean_probability": 0.5995962023735046,
+            "affected_pixels": 47
+        },
+        {
+            "region_id": 205,
+            "latitude": 17.40017130355218,
+            "longitude": 78.31615464468317,
+            "max_probability": 0.6911410093307495,
+            "mean_probability": 0.5844195485115051,
+            "affected_pixels": 27
+        },
+        {
+            "region_id": 47,
+            "latitude": 17.479153398738124,
+            "longitude": 78.32853020764533,
+            "max_probability": 0.689483106136322,
+            "mean_probability": 0.5634371042251587,
+            "affected_pixels": 30
+        },
+        {
+            "region_id": 25,
+            "latitude": 17.492450717251707,
+            "longitude": 78.31835863333215,
+            "max_probability": 0.672331690788269,
+            "mean_probability": 0.5844799280166626,
+            "affected_pixels": 28
+        },
+        {
+            "region_id": 189,
+            "latitude": 17.40758621958557,
+            "longitude": 78.37944896441425,
+            "max_probability": 0.6450790762901306,
+            "mean_probability": 0.5516645908355713,
+            "affected_pixels": 27
+        }
+    ],
+    "geojson": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.33306887250912,
+                                17.343727224639036
+                            ],
+                            [
+                                78.37506798057366,
+                                17.34302252604932
+                            ],
+                            [
+                                78.37396189650171,
+                                17.282474783817143
+                            ],
+                            [
+                                78.33197648994684,
+                                17.283176871713223
+                            ],
+                            [
+                                78.33306887250912,
+                                17.343727224639036
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 278,
+                    "latitude": 17.31343895502491,
+                    "longitude": 78.35317689128408,
+                    "max_probability": 0.9995284080505371,
+                    "mean_probability": 0.962681770324707,
+                    "affected_pixels": 129028
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.30882079733112,
+                                17.26505536498526
+                            ],
+                            [
+                                78.30985394223748,
+                                17.265038329213155
+                            ],
+                            [
+                                78.30983459744043,
+                                17.26395543122236
+                            ],
+                            [
+                                78.30880145854552,
+                                17.263972465860856
+                            ],
+                            [
+                                78.30882079733112,
+                                17.26505536498526
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 322,
+                    "latitude": 17.264542124961157,
+                    "longitude": 78.30933774980453,
+                    "max_probability": 0.9951712489128113,
+                    "mean_probability": 0.8930734395980835,
+                    "affected_pixels": 115
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.57512412284625,
+                                17.385570569949714
+                            ],
+                            [
+                                78.57728513506663,
+                                17.38553182087877
+                            ],
+                            [
+                                78.57726056398872,
+                                17.38426881179617
+                            ],
+                            [
+                                78.57509956653439,
+                                17.384307557878135
+                            ],
+                            [
+                                78.57512412284625,
+                                17.385570569949714
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 223,
+                    "latitude": 17.384960932748328,
+                    "longitude": 78.57607696255192,
+                    "max_probability": 0.9901248216629028,
+                    "mean_probability": 0.8568833470344543,
+                    "affected_pixels": 235
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3212571515294,
+                                17.282722844648006
+                            ],
+                            [
+                                78.32351147068069,
+                                17.282685492381077
+                            ],
+                            [
+                                78.32348230276015,
+                                17.28106117075217
+                            ],
+                            [
+                                78.32122800330457,
+                                17.281098519294257
+                            ],
+                            [
+                                78.3212571515294,
+                                17.282722844648006
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 315,
+                    "latitude": 17.28182509971868,
+                    "longitude": 78.32249800374927,
+                    "max_probability": 0.981533944606781,
+                    "mean_probability": 0.8282694816589355,
+                    "affected_pixels": 209
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.33310526591234,
+                                17.283248377261994
+                            ],
+                            [
+                                78.33395062843069,
+                                17.28323432280986
+                            ],
+                            [
+                                78.33393762340572,
+                                17.282512409856732
+                            ],
+                            [
+                                78.33309226417005,
+                                17.282526463685983
+                            ],
+                            [
+                                78.33310526591234,
+                                17.283248377261994
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 313,
+                    "latitude": 17.28282066114479,
+                    "longitude": 78.33352253781419,
+                    "max_probability": 0.9707509279251099,
+                    "mean_probability": 0.8175143599510193,
+                    "affected_pixels": 65
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.32453173048526,
+                                17.281946444230883
+                            ],
+                            [
+                                78.32528316517153,
+                                17.281933984563157
+                            ],
+                            [
+                                78.32527181619893,
+                                17.281302305060397
+                            ],
+                            [
+                                78.32452038406574,
+                                17.28131476424491
+                            ],
+                            [
+                                78.32453173048526,
+                                17.281946444230883
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 317,
+                    "latitude": 17.281615640193017,
+                    "longitude": 78.3249032654571,
+                    "max_probability": 0.9704883098602295,
+                    "mean_probability": 0.8067817687988281,
+                    "affected_pixels": 57
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.51982820023021,
+                                17.433123589336024
+                            ],
+                            [
+                                78.52011016159014,
+                                17.4331186013213
+                            ],
+                            [
+                                78.52009110842874,
+                                17.432126180017562
+                            ],
+                            [
+                                78.51980914858729,
+                                17.432131167730684
+                            ],
+                            [
+                                78.51982820023021,
+                                17.433123589336024
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 131,
+                    "latitude": 17.43260621484702,
+                    "longitude": 78.51998089505051,
+                    "max_probability": 0.9547978043556213,
+                    "mean_probability": 0.7636814713478088,
+                    "affected_pixels": 37
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.33431658992856,
+                                17.282686640746043
+                            ],
+                            [
+                                78.33497409137033,
+                                17.282675706188417
+                            ],
+                            [
+                                78.33496758700882,
+                                17.28231475007727
+                            ],
+                            [
+                                78.33431008684362,
+                                17.282325684392585
+                            ],
+                            [
+                                78.33431658992856,
+                                17.282686640746043
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 314,
+                    "latitude": 17.282533580827156,
+                    "longitude": 78.33463841059003,
+                    "max_probability": 0.9540432095527649,
+                    "mean_probability": 0.7818008661270142,
+                    "affected_pixels": 33
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.57756876110824,
+                                17.38561697983346
+                            ],
+                            [
+                                78.57803854570649,
+                                17.385608552331842
+                            ],
+                            [
+                                78.57803152367794,
+                                17.38524769291478
+                            ],
+                            [
+                                78.57756173999685,
+                                17.385256120230665
+                            ],
+                            [
+                                78.57756876110824,
+                                17.38561697983346
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 222,
+                    "latitude": 17.385450480571723,
+                    "longitude": 78.57779485630272,
+                    "max_probability": 0.9514307379722595,
+                    "mean_probability": 0.7731431722640991,
+                    "affected_pixels": 25
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.36142123503168,
+                                17.41401904391588
+                            ],
+                            [
+                                78.36330109445636,
+                                17.41398731139524
+                            ],
+                            [
+                                78.363279604245,
+                                17.412814253451895
+                            ],
+                            [
+                                78.36139975677672,
+                                17.41284598370238
+                            ],
+                            [
+                                78.36142123503168,
+                                17.41401904391588
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 173,
+                    "latitude": 17.413361319241,
+                    "longitude": 78.3623376568301,
+                    "max_probability": 0.9348717331886292,
+                    "mean_probability": 0.7483152747154236,
+                    "affected_pixels": 208
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.37484003839877,
+                                17.407473783644004
+                            ],
+                            [
+                                78.37888153129457,
+                                17.407405289831395
+                            ],
+                            [
+                                78.37879521751945,
+                                17.402713129569822
+                            ],
+                            [
+                                78.3747538273856,
+                                17.402781603776297
+                            ],
+                            [
+                                78.37484003839877,
+                                17.407473783644004
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 191,
+                    "latitude": 17.404771275687615,
+                    "longitude": 78.37669044865598,
+                    "max_probability": 0.9259858131408691,
+                    "mean_probability": 0.6821383833885193,
+                    "affected_pixels": 600
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.39002301247604,
+                                17.4608310566541
+                            ],
+                            [
+                                78.39086914045194,
+                                17.46081662044065
+                            ],
+                            [
+                                78.39084072705025,
+                                17.45928267254311
+                            ],
+                            [
+                                78.38999460613124,
+                                17.459297107409235
+                            ],
+                            [
+                                78.39002301247604,
+                                17.4608310566541
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 71,
+                    "latitude": 17.460078026129192,
+                    "longitude": 78.39042248638775,
+                    "max_probability": 0.9245502352714539,
+                    "mean_probability": 0.7769694328308105,
+                    "affected_pixels": 101
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.36698335892346,
+                                17.414827730915192
+                            ],
+                            [
+                                78.36754731641247,
+                                17.414818196855546
+                            ],
+                            [
+                                78.36753241887659,
+                                17.414006083461793
+                            ],
+                            [
+                                78.36696846387096,
+                                17.414015617049255
+                            ],
+                            [
+                                78.36698335892346,
+                                17.414827730915192
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 169,
+                    "latitude": 17.41448532242669,
+                    "longitude": 78.36727345205976,
+                    "max_probability": 0.9219899773597717,
+                    "mean_probability": 0.6545470952987671,
+                    "affected_pixels": 46
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3738415005969,
+                                17.41453115672246
+                            ],
+                            [
+                                78.3757213411389,
+                                17.414499306211948
+                            ],
+                            [
+                                78.37568317969973,
+                                17.412423922635814
+                            ],
+                            [
+                                78.37380336031036,
+                                17.41245576911513
+                            ],
+                            [
+                                78.3738415005969,
+                                17.41453115672246
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 170,
+                    "latitude": 17.413483218544155,
+                    "longitude": 78.37496921392604,
+                    "max_probability": 0.9194767475128174,
+                    "mean_probability": 0.7328718304634094,
+                    "affected_pixels": 231
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.53192174541527,
+                                17.367748795009064
+                            ],
+                            [
+                                78.53276731756996,
+                                17.36773383290032
+                            ],
+                            [
+                                78.532744809612,
+                                17.366560979746023
+                            ],
+                            [
+                                78.5318992428173,
+                                17.366575940782056
+                            ],
+                            [
+                                78.53192174541527,
+                                17.367748795009064
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 242,
+                    "latitude": 17.367054857786187,
+                    "longitude": 78.5324908673906,
+                    "max_probability": 0.8921126127243042,
+                    "mean_probability": 0.6864380240440369,
+                    "affected_pixels": 71
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.59773179461911,
+                                17.38814211022926
+                            ],
+                            [
+                                78.59876531162823,
+                                17.38812346130037
+                            ],
+                            [
+                                78.59874412091833,
+                                17.387040907970043
+                            ],
+                            [
+                                78.59771060996287,
+                                17.3870595556661
+                            ],
+                            [
+                                78.59773179461911,
+                                17.38814211022926
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 209,
+                    "latitude": 17.387623820603398,
+                    "longitude": 78.59811439186905,
+                    "max_probability": 0.8912458419799805,
+                    "mean_probability": 0.7436099052429199,
+                    "affected_pixels": 84
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.31377403820643,
+                                17.482878499621226
+                            ],
+                            [
+                                78.31433823574916,
+                                17.482869080590984
+                            ],
+                            [
+                                78.31433332786783,
+                                17.482598363221364
+                            ],
+                            [
+                                78.31376913115683,
+                                17.482607782096633
+                            ],
+                            [
+                                78.31377403820643,
+                                17.482878499621226
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 33,
+                    "latitude": 17.4827948139252,
+                    "longitude": 78.31401597421727,
+                    "max_probability": 0.8806195259094238,
+                    "mean_probability": 0.6967988014221191,
+                    "affected_pixels": 17
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.33872365092002,
+                                17.40158314956038
+                            ],
+                            [
+                                78.33938157301232,
+                                17.401572127696422
+                            ],
+                            [
+                                78.3393799328483,
+                                17.401481890145536
+                            ],
+                            [
+                                78.33872201107768,
+                                17.401492911948804
+                            ],
+                            [
+                                78.33872365092002,
+                                17.40158314956038
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 199,
+                    "latitude": 17.401532520108226,
+                    "longitude": 78.33905179202368,
+                    "max_probability": 0.8803034424781799,
+                    "mean_probability": 0.677169680595398,
+                    "affected_pixels": 16
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.4793082112377,
+                                17.423366785520344
+                            ],
+                            [
+                                78.48062401744212,
+                                17.423343784804285
+                            ],
+                            [
+                                78.48057951581673,
+                                17.420997959798513
+                            ],
+                            [
+                                78.47926372635277,
+                                17.421020957225593
+                            ],
+                            [
+                                78.4793082112377,
+                                17.423366785520344
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 143,
+                    "latitude": 17.422398914066402,
+                    "longitude": 78.47981870110863,
+                    "max_probability": 0.8749337792396545,
+                    "mean_probability": 0.6453163027763367,
+                    "affected_pixels": 128
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.37719472379354,
+                                17.407704673539445
+                            ],
+                            [
+                                78.37747668867847,
+                                17.407699894160274
+                            ],
+                            [
+                                78.37746341315825,
+                                17.406978022491884
+                            ],
+                            [
+                                78.37718144937647,
+                                17.40698280166058
+                            ],
+                            [
+                                78.37719472379354,
+                                17.407704673539445
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 190,
+                    "latitude": 17.407293201445675,
+                    "longitude": 78.37728509198475,
+                    "max_probability": 0.8676100373268127,
+                    "mean_probability": 0.6842095851898193,
+                    "affected_pixels": 24
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.32369284795693,
+                                17.282321418286777
+                            ],
+                            [
+                                78.32435035523467,
+                                17.282310518749615
+                            ],
+                            [
+                                78.32434225086061,
+                                17.281859318697297
+                            ],
+                            [
+                                78.32368474517861,
+                                17.281870217932525
+                            ],
+                            [
+                                78.32369284795693,
+                                17.282321418286777
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 316,
+                    "latitude": 17.28209291783568,
+                    "longitude": 78.32395765723666,
+                    "max_probability": 0.8651618957519531,
+                    "mean_probability": 0.6809890866279602,
+                    "affected_pixels": 29
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.46932513946092,
+                                17.42245795151176
+                            ],
+                            [
+                                78.47082892637621,
+                                17.422431740912895
+                            ],
+                            [
+                                78.47082380593795,
+                                17.422161065979655
+                            ],
+                            [
+                                78.4693200212303,
+                                17.422187276146033
+                            ],
+                            [
+                                78.46932513946092,
+                                17.42245795151176
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 152,
+                    "latitude": 17.422355586845768,
+                    "longitude": 78.47013257314345,
+                    "max_probability": 0.8641372323036194,
+                    "mean_probability": 0.6919862627983093,
+                    "affected_pixels": 46
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.34199119632919,
+                                17.389974485598728
+                            ],
+                            [
+                                78.34293102244015,
+                                17.389958734197084
+                            ],
+                            [
+                                78.34292774097011,
+                                17.389778259541444
+                            ],
+                            [
+                                78.3419879157775,
+                                17.389794010769513
+                            ],
+                            [
+                                78.34199119632919,
+                                17.389974485598728
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 213,
+                    "latitude": 17.389917531190086,
+                    "longitude": 78.34242731332033,
+                    "max_probability": 0.8372389674186707,
+                    "mean_probability": 0.6630750894546509,
+                    "affected_pixels": 20
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.48035903173576,
+                                17.419286988178442
+                            ],
+                            [
+                                78.4807349678003,
+                                17.419280416935297
+                            ],
+                            [
+                                78.48072641110716,
+                                17.418829296663457
+                            ],
+                            [
+                                78.48035047596224,
+                                17.418835867725857
+                            ],
+                            [
+                                78.48035903173576,
+                                17.419286988178442
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 160,
+                    "latitude": 17.419080862764037,
+                    "longitude": 78.48053375106048,
+                    "max_probability": 0.8076260089874268,
+                    "mean_probability": 0.6490954160690308,
+                    "affected_pixels": 20
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.49787939881567,
+                                17.445694733916266
+                            ],
+                            [
+                                78.49834937766052,
+                                17.44568646634987
+                            ],
+                            [
+                                78.4983338729839,
+                                17.444874467295257
+                            ],
+                            [
+                                78.49786389621165,
+                                17.444882734452882
+                            ],
+                            [
+                                78.49787939881567,
+                                17.445694733916266
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 93,
+                    "latitude": 17.445177222907645,
+                    "longitude": 78.49814732575081,
+                    "max_probability": 0.7977438569068909,
+                    "mean_probability": 0.5962628126144409,
+                    "affected_pixels": 22
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3651706929469,
+                                17.31051399723784
+                            ],
+                            [
+                                78.36564039259737,
+                                17.310506102591983
+                            ],
+                            [
+                                78.36561902332369,
+                                17.30933303538024
+                            ],
+                            [
+                                78.36514932664173,
+                                17.309340929458337
+                            ],
+                            [
+                                78.3651706929469,
+                                17.31051399723784
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 297,
+                    "latitude": 17.309941237636078,
+                    "longitude": 78.36538474056485,
+                    "max_probability": 0.79095858335495,
+                    "mean_probability": 0.6258795857429504,
+                    "affected_pixels": 36
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.47090915860994,
+                                17.426672313717987
+                            ],
+                            [
+                                78.47278893180612,
+                                17.42663952609544
+                            ],
+                            [
+                                78.47276843378867,
+                                17.425556829024774
+                            ],
+                            [
+                                78.47088867163345,
+                                17.425589614483744
+                            ],
+                            [
+                                78.47090915860994,
+                                17.426672313717987
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 139,
+                    "latitude": 17.42607408698057,
+                    "longitude": 78.47170489604291,
+                    "max_probability": 0.7774813175201416,
+                    "mean_probability": 0.6190489530563354,
+                    "affected_pixels": 137
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.47340766945392,
+                                17.414624876292518
+                            ],
+                            [
+                                78.47350165179765,
+                                17.414623237249465
+                            ],
+                            [
+                                78.47348628627427,
+                                17.413811214100814
+                            ],
+                            [
+                                78.47339230434424,
+                                17.413812853062698
+                            ],
+                            [
+                                78.47340766945392,
+                                17.414624876292518
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 167,
+                    "latitude": 17.41423647626744,
+                    "longitude": 78.4734556219017,
+                    "max_probability": 0.7666878700256348,
+                    "mean_probability": 0.6574287414550781,
+                    "affected_pixels": 17
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.34833098431918,
+                                17.319822795257863
+                            ],
+                            [
+                                78.34889466201871,
+                                17.3198133639965
+                            ],
+                            [
+                                78.34888811561855,
+                                17.319452414367216
+                            ],
+                            [
+                                78.34832443901587,
+                                17.31946184541997
+                            ],
+                            [
+                                78.34833098431918,
+                                17.319822795257863
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 295,
+                    "latitude": 17.319641258613558,
+                    "longitude": 78.3485772114578,
+                    "max_probability": 0.7634679675102234,
+                    "mean_probability": 0.6231688261032104,
+                    "affected_pixels": 29
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3982400288179,
+                                17.493094078326695
+                            ],
+                            [
+                                78.39974450799778,
+                                17.493068303366726
+                            ],
+                            [
+                                78.39974114976577,
+                                17.492887841174053
+                            ],
+                            [
+                                78.39823667206501,
+                                17.492913615851478
+                            ],
+                            [
+                                78.3982400288179,
+                                17.493094078326695
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 16,
+                    "latitude": 17.492963999144727,
+                    "longitude": 78.39898381769534,
+                    "max_probability": 0.7477333545684814,
+                    "mean_probability": 0.6134571433067322,
+                    "affected_pixels": 30
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.47050418382582,
+                                17.42514504455238
+                            ],
+                            [
+                                78.47116209972303,
+                                17.42513357320406
+                            ],
+                            [
+                                78.47115014906035,
+                                17.42450199874076
+                            ],
+                            [
+                                78.47049223541714,
+                                17.424513469647483
+                            ],
+                            [
+                                78.47050418382582,
+                                17.42514504455238
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 142,
+                    "latitude": 17.424823263064933,
+                    "longitude": 78.47084200718925,
+                    "max_probability": 0.7458491325378418,
+                    "mean_probability": 0.6221974492073059,
+                    "affected_pixels": 38
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.49803982930408,
+                                17.444247872656533
+                            ],
+                            [
+                                78.49813382433615,
+                                17.44424621928859
+                            ],
+                            [
+                                78.49809248656662,
+                                17.442080887486778
+                            ],
+                            [
+                                78.49799849263978,
+                                17.44208254063672
+                            ],
+                            [
+                                78.49803982930408,
+                                17.444247872656533
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 115,
+                    "latitude": 17.443099581421578,
+                    "longitude": 78.4980850688647,
+                    "max_probability": 0.7450845241546631,
+                    "mean_probability": 0.6144726872444153,
+                    "affected_pixels": 35
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.40248313346679,
+                                17.49365317315051
+                            ],
+                            [
+                                78.40295328284341,
+                                17.49364510940312
+                            ],
+                            [
+                                78.4029347950037,
+                                17.492652570674817
+                            ],
+                            [
+                                78.40246464816933,
+                                17.492660633936055
+                            ],
+                            [
+                                78.40248313346679,
+                                17.49365317315051
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 9,
+                    "latitude": 17.49315995532898,
+                    "longitude": 78.40274963963911,
+                    "max_probability": 0.741193413734436,
+                    "mean_probability": 0.5507704019546509,
+                    "affected_pixels": 29
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.35413801041797,
+                                17.447629664185882
+                            ],
+                            [
+                                78.35658229265172,
+                                17.447588420870595
+                            ],
+                            [
+                                78.35657898617954,
+                                17.447407949785553
+                            ],
+                            [
+                                78.35413470634256,
+                                17.447449192647667
+                            ],
+                            [
+                                78.35413801041797,
+                                17.447629664185882
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 94,
+                    "latitude": 17.44749059629531,
+                    "longitude": 78.355366342092,
+                    "max_probability": 0.7318530082702637,
+                    "mean_probability": 0.6308438181877136,
+                    "affected_pixels": 45
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.47524116456107,
+                                17.4171200161129
+                            ],
+                            [
+                                78.47589904839904,
+                                17.41710853424444
+                            ],
+                            [
+                                78.47589392215669,
+                                17.416837860629123
+                            ],
+                            [
+                                78.4752360392842,
+                                17.416849342308076
+                            ],
+                            [
+                                78.47524116456107,
+                                17.4171200161129
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 161,
+                    "latitude": 17.417016312238506,
+                    "longitude": 78.47556212002364,
+                    "max_probability": 0.7280287146568298,
+                    "mean_probability": 0.6046662330627441,
+                    "affected_pixels": 23
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3239295399833,
+                                17.48270871276032
+                            ],
+                            [
+                                78.32468179482109,
+                                17.48269611537465
+                            ],
+                            [
+                                78.324678512725,
+                                17.482515639026406
+                            ],
+                            [
+                                78.3239262586265,
+                                17.482528236273893
+                            ],
+                            [
+                                78.3239295399833,
+                                17.48270871276032
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 35,
+                    "latitude": 17.482637767269704,
+                    "longitude": 78.32427313846736,
+                    "max_probability": 0.7173190712928772,
+                    "mean_probability": 0.6258931756019592,
+                    "affected_pixels": 18
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.4003103664356,
+                                17.493148865870186
+                            ],
+                            [
+                                78.40219096151182,
+                                17.49311662569596
+                            ],
+                            [
+                                78.40218592054339,
+                                17.49284593309753
+                            ],
+                            [
+                                78.40030532824052,
+                                17.492878172741626
+                            ],
+                            [
+                                78.4003103664356,
+                                17.493148865870186
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 12,
+                    "latitude": 17.492941119331597,
+                    "longitude": 78.40128647066355,
+                    "max_probability": 0.716385543346405,
+                    "mean_probability": 0.5972617864608765,
+                    "affected_pixels": 43
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.46934889425212,
+                                17.428685120903353
+                            ],
+                            [
+                                78.47000682364106,
+                                17.42867365111537
+                            ],
+                            [
+                                78.46999316737097,
+                                17.427951851092732
+                            ],
+                            [
+                                78.46933524055865,
+                                17.427963320376186
+                            ],
+                            [
+                                78.46934889425212,
+                                17.428685120903353
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 134,
+                    "latitude": 17.42834866069413,
+                    "longitude": 78.4697026091174,
+                    "max_probability": 0.7028880715370178,
+                    "mean_probability": 0.5995962023735046,
+                    "affected_pixels": 47
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.31576075179318,
+                                17.400341673623537
+                            ],
+                            [
+                                78.31651267526127,
+                                17.40032916442532
+                            ],
+                            [
+                                78.31650778882945,
+                                17.400058445417795
+                            ],
+                            [
+                                78.31575586646426,
+                                17.40007095440934
+                            ],
+                            [
+                                78.31576075179318,
+                                17.400341673623537
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 205,
+                    "latitude": 17.40017130355218,
+                    "longitude": 78.31615464468317,
+                    "max_probability": 0.6911410093307495,
+                    "mean_probability": 0.5844195485115051,
+                    "affected_pixels": 27
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.32819750425762,
+                                17.479477913866674
+                            ],
+                            [
+                                78.3289497425423,
+                                17.479465302579666
+                            ],
+                            [
+                                78.32893988568527,
+                                17.4789238757054
+                            ],
+                            [
+                                78.32818764961789,
+                                17.478936486577357
+                            ],
+                            [
+                                78.32819750425762,
+                                17.479477913866674
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 47,
+                    "latitude": 17.479153398738124,
+                    "longitude": 78.32853020764533,
+                    "max_probability": 0.689483106136322,
+                    "mean_probability": 0.5634371042251587,
+                    "affected_pixels": 30
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.3181890037283,
+                                17.49291455591102
+                            ],
+                            [
+                                78.31847111675165,
+                                17.492909837710805
+                            ],
+                            [
+                                78.31845308818903,
+                                17.491917212485014
+                            ],
+                            [
+                                78.31817097669148,
+                                17.491921930400736
+                            ],
+                            [
+                                78.3181890037283,
+                                17.49291455591102
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 25,
+                    "latitude": 17.492450717251707,
+                    "longitude": 78.31835863333215,
+                    "max_probability": 0.672331690788269,
+                    "mean_probability": 0.5844799280166626,
+                    "affected_pixels": 28
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                78.37907780854148,
+                                17.407853271116387
+                            ],
+                            [
+                                78.37992370196044,
+                                17.407838923683208
+                            ],
+                            [
+                                78.37991373797034,
+                                17.407297521317993
+                            ],
+                            [
+                                78.37906784703348,
+                                17.4073118682773
+                            ],
+                            [
+                                78.37907780854148,
+                                17.407853271116387
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "region_id": 189,
+                    "latitude": 17.40758621958557,
+                    "longitude": 78.37944896441425,
+                    "max_probability": 0.6450790762901306,
+                    "mean_probability": 0.5516645908355713,
+                    "affected_pixels": 27
+                }
+            }
+        ]
+    },
+    "diagnostics": {
+        "shape": [
+            10880,
+            10880
+        ],
+        "minimum": 0.005895940121263266,
+        "maximum": 0.9995284080505371,
+        "mean": 0.015946056693792343,
+        "median": 0.014328758232295513,
+        "percentiles": {
+            "90": 0.01767408475279808,
+            "95": 0.018270939588546753,
+            "99": 0.02431219443678856,
+            "99.9": 0.8953747153282166,
+            "99.99": 0.9964626431465149
+        }
+    }
+}

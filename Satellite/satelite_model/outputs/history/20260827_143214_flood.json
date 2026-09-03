@@ -1,0 +1,44 @@
+{
+  "service": "Multi-Region Flood Detection",
+  "disaster": "flood",
+  "timestamp": "2026-08-27T14:32:14.087894+00:00",
+  "monitoring_countries": [
+    "India",
+    "Nepal",
+    "Bhutan",
+    "Bangladesh",
+    "Pakistan",
+    "Sri Lanka",
+    "Myanmar"
+  ],
+  "products_found": 1,
+  "products_processed": 1,
+  "risk": "LOW",
+  "alert": false,
+  "flood_pixels": 170168,
+  "flood_percentage": 0.1411475078052163,
+  "maximum_mndwi": 0.6263864636421204,
+  "detection_count": 0,
+  "high_risk_regions": 0,
+  "medium_risk_regions": 0,
+  "detections": [],
+  "products": [
+    {
+      "disaster": "flood",
+      "product": "S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+      "product_path": "D:\\Disaster-management\\Backend\\data\\satellite\\products\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257\\S2B_MSIL2A_20260810T050649_N0512_R019_T43QHV_20260810T085257.SAFE",
+      "timestamp": "2026-08-27T14:32:13.956958+00:00",
+      "scene_width": 10980,
+      "scene_height": 10980,
+      "flood_pixels": 170168,
+      "flood_percentage": 0.1411475078052163,
+      "maximum_mndwi": 0.6263864636421204,
+      "mean_mndwi": -0.1873634159564972,
+      "median_mndwi": -0.22063690423965454,
+      "mndwi_threshold": 0.25,
+      "detection_count": 0,
+      "detections": []
+    }
+  ],
+  "geojson": "D:\\Disaster-management\\Backend\\sattelite_model\\outputs\\flood_regions.geojson"
+}

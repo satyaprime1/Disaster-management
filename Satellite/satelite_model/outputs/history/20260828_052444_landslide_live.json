@@ -1,0 +1,27 @@
+{
+  "live": true,
+  "disaster": "LANDSLIDE",
+  "alert_time": "2026-08-28T05:24:44.148724+00:00",
+  "satellite": "Sentinel-1 GRD",
+  "sensor": "Sentinel-1",
+  "product": "S1D_IW_GRDH_1SDV_20260828T012520_20260828T012545_004319_007F72_CAE8.SAFE",
+  "product_id": "7078f9fe-994c-424e-a55f-96c8b3926abc",
+  "sensing_time": "2026-08-28T01:25:20.483636Z",
+  "result": {
+    "disaster": "landslide",
+    "alert": false,
+    "risk": "LOW",
+    "reason": "Baseline created; waiting for a comparable Sentinel-1 observation.",
+    "product": "S1D_IW_GRDH_1SDV_20260828T012520_20260828T012545_004319_007F72_CAE8.SAFE",
+    "satellite": "Sentinel-1 GRD",
+    "sensor": "Sentinel-1",
+    "baseline_key": "S1D_IW_ORBIT_004319",
+    "coordinates": [],
+    "detected_regions": 0,
+    "timestamp": "2026-08-28T05:24:43.366923+00:00",
+    "live": true,
+    "cdse_product_id": "7078f9fe-994c-424e-a55f-96c8b3926abc",
+    "sensing_time": "2026-08-28T01:25:20.483636Z",
+    "live_safe_path": "D:\\Disaster-management\\Backend\\data\\satellite\\live_products\\LIVE_157g2rs9\\extracted\\S1D_IW_GRDH_1SDV_20260828T012520_20260828T012545_004319_007F72_CAE8.SAFE"
+  }
+}

@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles for a clean public-service portal look */
+body {
+  background-color: #f8fafc; /* Slate 50 */
+  color: #1f2937; /* Gray 800 */
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+/* Custom scrollbars for a clean modern dashboard look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Leaflet container height and custom style overrides */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+  z-index: 1;
+}
+
+/* Custom Leaflet popup overrides for clean typography */
+.custom-popup .leaflet-popup-content-wrapper {
+  background: #ffffff;
+  color: #1f2937;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  padding: 2px;
+}
+
+.custom-popup .leaflet-popup-tip {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+}

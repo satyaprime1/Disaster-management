@@ -1,0 +1,15 @@
+{
+    "alert_id": "20260827_130310_859251",
+    "timestamp": "2026-08-27T13:03:10.859251+00:00",
+    "disaster": "landslide",
+    "risk": "HIGH",
+    "country": "India",
+    "location": "Hyderabad region",
+    "latitude": 1945135.0,
+    "longitude": 854885.0,
+    "maximum_probability": 0.9999657869338989,
+    "mean_probability": 5.014691851101816e-05,
+    "affected_pixels": 2202,
+    "affected_area_percent": 0.0018601995025951557,
+    "message": "\ud83d\udea8 HIGH LANDSLIDE RISK\nCountry: India\nLocation: Hyderabad region\nMaximum probability: 100.00%\nAffected area: 0.001860%"
+}
