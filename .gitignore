@@ -21,3 +21,5 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+ML/flood_prediction/data/regional_weather_data.csv
