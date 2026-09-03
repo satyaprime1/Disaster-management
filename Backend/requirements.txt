@@ -4,3 +4,4 @@ requests
 pandas
 joblib
 scikit-learn
+gunicorn
