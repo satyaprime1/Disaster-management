@@ -7,6 +7,9 @@ import {
   Popup,
   useMap,
 } from "react-leaflet";
+
+import { X } from "lucide-react";
+
 import "leaflet/dist/leaflet.css";
 
 const API_BASE_URL =
@@ -26,7 +29,7 @@ function MapController({ center, zoom }) {
   return null;
 }
 
-export default function Satellite() {
+export default function SatelliteMonitoring() {
   const [landslideGeoJSON, setLandslideGeoJSON] = useState(null);
   const [floodGeoJSON, setFloodGeoJSON] = useState(null);
 
@@ -47,7 +50,6 @@ export default function Satellite() {
   const [loading, setLoading] = useState(true);
   const [liveStatus, setLiveStatus] = useState(false);
 
-  // Backend connection status
   const [backendConnected, setBackendConnected] = useState(false);
 
   // ============================================================
@@ -71,6 +73,7 @@ export default function Satellite() {
 
         setLandslideGeoJSON(landslideGeo);
         setFloodGeoJSON(floodGeo);
+
         setLandslideData(landslidePred);
         setFloodData(floodPred);
       } catch (error) {
@@ -241,9 +244,7 @@ export default function Satellite() {
         result.push({
           id: `FL-${region.region_id}`,
           type: "FLOOD",
-          name:
-            region.name ||
-            `Flood Zone #${region.region_id}`,
+          name: region.name || `Flood Zone #${region.region_id}`,
           lat: region.latitude,
           lng: region.longitude,
           probability: region.probability || 0,
@@ -291,148 +292,148 @@ export default function Satellite() {
 
   function focusHazard(hazard) {
     setSelectedHazard(hazard);
-    setMapCenter([hazard.lat, hazard.lng]);
+
+    setMapCenter([
+      hazard.lat,
+      hazard.lng,
+    ]);
+
     setMapZoom(13);
   }
 
+  // ============================================================
+  // RENDER
+  // ============================================================
+
   return (
-    <div className="bg-[#F5F7FA] min-h-screen">
+    <div className="bg-[#F8FAFC] min-h-screen text-[#243447]">
 
       {/* ======================================================
           PAGE HEADER
       ====================================================== */}
 
-      <section className="bg-white border-b border-gray-200">
+      <section className="bg-white border-b border-[#D9E0E7]">
+
         <div className="max-w-7xl mx-auto px-6 py-8">
 
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-5">
 
+            {/* Heading */}
+
             <div>
-              <div className="flex items-center gap-3">
 
-                <div className="w-11 h-11 rounded-lg bg-[#123F66] text-white flex items-center justify-center text-xl">
-                  🛰️
-                </div>
+              <h1 className="text-3xl font-semibold text-[#243447]">
+                Satellite Monitoring
+              </h1>
 
-                <div>
-                  <h1 className="text-3xl font-bold text-[#123F66]">
-                    Satellite Monitoring
-                  </h1>
+              <p className="text-[#667085] mt-1">
+                Satellite-based hazard detection and geospatial monitoring
+              </p>
 
-                  <p className="text-gray-500 mt-1">
-                    AI-powered satellite hazard detection and geospatial monitoring
-                  </p>
-                </div>
-
-              </div>
             </div>
+
 
             {/* Backend Status */}
 
             <div
-              className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium ${
+              className={`flex items-center gap-2 px-4 py-2 border text-sm font-medium ${
                 backendConnected
-                  ? "bg-green-50 text-green-700"
-                  : "bg-red-50 text-red-700"
+                  ? "bg-[#E8F5E9] text-[#2E7D32] border-[#A5D6A7]"
+                  : "bg-[#FDECEC] text-[#C62828] border-[#EF9A9A]"
               }`}
             >
+
               <span
                 className={`w-2.5 h-2.5 rounded-full ${
                   backendConnected
-                    ? "bg-green-500"
-                    : "bg-red-500"
+                    ? "bg-[#2E7D32]"
+                    : "bg-[#C62828]"
                 }`}
               />
 
               {backendConnected
-                ? "BACKEND CONNECTED"
-                : "BACKEND DISCONNECTED"}
+                ? "Satellite System connected"
+                : "Satellite System disconnected"}
+
             </div>
 
           </div>
 
         </div>
+
       </section>
 
 
       {/* ======================================================
-          STAT CARDS
+          STATISTICS
       ====================================================== */}
 
       <section className="max-w-7xl mx-auto px-6 py-6">
 
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-4 border-t border-l border-[#D9E0E7]">
 
-          {/* Landslide */}
+          <div className="bg-white border-r border-b border-[#D9E0E7] p-5">
 
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-[#667085]">
               Landslide Zones
             </p>
 
-            <p className="text-3xl font-bold text-[#123F66] mt-2">
+            <p className="text-3xl font-semibold text-[#123F66] mt-2">
               {loading ? "..." : landslideCount}
             </p>
 
-            <p className="text-xs text-gray-500 mt-1">
+            <p className="text-xs text-[#667085] mt-1">
               Peak probability: {landslidePeak}%
             </p>
 
           </div>
 
 
-          {/* Flood */}
+          <div className="bg-white border-r border-b border-[#D9E0E7] p-5">
 
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-[#667085]">
               Flood Zones
             </p>
 
-            <p className="text-3xl font-bold text-[#123F66] mt-2">
+            <p className="text-3xl font-semibold text-[#123F66] mt-2">
               {loading ? "..." : floodCount}
             </p>
 
-            <p className="text-xs text-gray-500 mt-1">
+            <p className="text-xs text-[#667085] mt-1">
               Maximum MNDWI: {floodPeak}
             </p>
 
           </div>
 
 
-          {/* Landslide Model */}
+          <div className="bg-white border-r border-b border-[#D9E0E7] p-5">
 
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-[#667085]">
               Landslide Model
             </p>
 
-            <p className="text-lg font-bold text-[#123F66] mt-2">
+            <p className="text-lg font-semibold text-[#243447] mt-2">
               Attention-ResUNet
             </p>
 
-            <p className="text-xs text-gray-500 mt-1">
+            <p className="text-xs text-[#667085] mt-1">
               Multispectral + topography
             </p>
 
           </div>
 
 
-          {/* Flood Model */}
+          <div className="bg-white border-r border-b border-[#D9E0E7] p-5">
 
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
-
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-[#667085]">
               Flood Detection
             </p>
 
-            <p className="text-lg font-bold text-[#123F66] mt-2">
+            <p className="text-lg font-semibold text-[#243447] mt-2">
               MNDWI + SAR
             </p>
 
-            <p className="text-xs text-gray-500 mt-1">
+            <p className="text-xs text-[#667085] mt-1">
               Sentinel-1 / Sentinel-2
             </p>
 
@@ -447,17 +448,17 @@ export default function Satellite() {
           MAP CONTROLS
       ====================================================== */}
 
-      <section className="max-w-7xl mx-auto px-6 pb-4">
+      <section className="max-w-7xl mx-auto px-6 pb-5">
 
-        <div className="bg-white border border-gray-200 rounded-xl p-5">
+        <div className="bg-white border border-[#D9E0E7] p-5">
 
-          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-5">
+          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
 
-            {/* Map type */}
+            {/* Base Map */}
 
             <div>
 
-              <p className="text-sm font-semibold text-gray-700 mb-2">
+              <p className="text-sm font-semibold text-[#243447] mb-3">
                 Base Map
               </p>
 
@@ -465,35 +466,35 @@ export default function Satellite() {
 
                 <button
                   onClick={() => setMapType("satellite")}
-                  className={`px-4 py-2 rounded-lg text-sm border transition ${
+                  className={`px-4 py-2 text-sm border transition ${
                     mapType === "satellite"
                       ? "bg-[#123F66] text-white border-[#123F66]"
-                      : "bg-white text-gray-600 border-gray-200 hover:border-[#123F66]"
+                      : "bg-white text-[#667085] border-[#D9E0E7] hover:border-[#123F66] hover:text-[#123F66]"
                   }`}
                 >
-                  🛰️ Satellite
+                  Satellite
                 </button>
 
                 <button
                   onClick={() => setMapType("dark")}
-                  className={`px-4 py-2 rounded-lg text-sm border transition ${
+                  className={`px-4 py-2 text-sm border transition ${
                     mapType === "dark"
                       ? "bg-[#123F66] text-white border-[#123F66]"
-                      : "bg-white text-gray-600 border-gray-200 hover:border-[#123F66]"
+                      : "bg-white text-[#667085] border-[#D9E0E7] hover:border-[#123F66] hover:text-[#123F66]"
                   }`}
                 >
-                  🌑 Dark
+                  Dark
                 </button>
 
                 <button
                   onClick={() => setMapType("osm")}
-                  className={`px-4 py-2 rounded-lg text-sm border transition ${
+                  className={`px-4 py-2 text-sm border transition ${
                     mapType === "osm"
                       ? "bg-[#123F66] text-white border-[#123F66]"
-                      : "bg-white text-gray-600 border-gray-200 hover:border-[#123F66]"
+                      : "bg-white text-[#667085] border-[#D9E0E7] hover:border-[#123F66] hover:text-[#123F66]"
                   }`}
                 >
-                  🗺️ Standard
+                  Standard
                 </button>
 
               </div>
@@ -501,11 +502,11 @@ export default function Satellite() {
             </div>
 
 
-            {/* Region navigation */}
+            {/* Jump to Region */}
 
             <div>
 
-              <p className="text-sm font-semibold text-gray-700 mb-2">
+              <p className="text-sm font-semibold text-[#243447] mb-3">
                 Jump to Region
               </p>
 
@@ -513,23 +514,23 @@ export default function Satellite() {
 
                 <button
                   onClick={showLandslideRegion}
-                  className="px-4 py-2 rounded-lg text-sm bg-red-50 text-red-700 border border-red-100 hover:bg-red-100"
+                  className="px-4 py-2 text-sm bg-[#EAF2F8] text-[#123F66] border border-[#D9E0E7] hover:bg-[#DCEAF5] transition"
                 >
-                  🌋 India Landslides
+                  India Landslides
                 </button>
 
                 <button
                   onClick={showFloodRegion}
-                  className="px-4 py-2 rounded-lg text-sm bg-blue-50 text-blue-700 border border-blue-100 hover:bg-blue-100"
+                  className="px-4 py-2 text-sm bg-[#EAF2F8] text-[#123F66] border border-[#D9E0E7] hover:bg-[#DCEAF5] transition"
                 >
-                  🌊 Nepal Floods
+                  Nepal Floods
                 </button>
 
                 <button
                   onClick={showSouthAsia}
-                  className="px-4 py-2 rounded-lg text-sm bg-gray-50 text-gray-700 border border-gray-200 hover:bg-gray-100"
+                  className="px-4 py-2 text-sm bg-white text-[#667085] border border-[#D9E0E7] hover:bg-[#EAF2F8] hover:text-[#123F66] transition"
                 >
-                  🌏 South Asia
+                  South Asia
                 </button>
 
               </div>
@@ -539,11 +540,11 @@ export default function Satellite() {
           </div>
 
 
-          {/* Layer toggles */}
+          {/* Layer Toggles */}
 
-          <div className="flex flex-wrap gap-5 mt-5 pt-4 border-t border-gray-100">
+          <div className="flex flex-wrap gap-6 mt-5 pt-4 border-t border-[#D9E0E7]">
 
-            <label className="flex items-center gap-2 text-sm text-gray-600 cursor-pointer">
+            <label className="flex items-center gap-2 text-sm text-[#667085] cursor-pointer">
 
               <input
                 type="checkbox"
@@ -551,16 +552,17 @@ export default function Satellite() {
                 onChange={(e) =>
                   setShowLandslides(e.target.checked)
                 }
+                className="accent-[#123F66]"
               />
 
-              <span className="w-2.5 h-2.5 rounded-full bg-red-500" />
+              <span className="w-2.5 h-2.5 rounded-full bg-[#123F66]" />
 
               Landslide Zones
 
             </label>
 
 
-            <label className="flex items-center gap-2 text-sm text-gray-600 cursor-pointer">
+            <label className="flex items-center gap-2 text-sm text-[#667085] cursor-pointer">
 
               <input
                 type="checkbox"
@@ -568,16 +570,17 @@ export default function Satellite() {
                 onChange={(e) =>
                   setShowFloods(e.target.checked)
                 }
+                className="accent-[#123F66]"
               />
 
-              <span className="w-2.5 h-2.5 rounded-full bg-cyan-500" />
+              <span className="w-2.5 h-2.5 rounded-full bg-[#4D7FA3]" />
 
               Flood Zones
 
             </label>
 
 
-            <label className="flex items-center gap-2 text-sm text-gray-600 cursor-pointer">
+            <label className="flex items-center gap-2 text-sm text-[#667085] cursor-pointer">
 
               <input
                 type="checkbox"
@@ -585,9 +588,10 @@ export default function Satellite() {
                 onChange={(e) =>
                   setShowBuffers(e.target.checked)
                 }
+                className="accent-[#123F66]"
               />
 
-              <span className="w-2.5 h-2.5 rounded-full bg-gray-500" />
+              <span className="w-2.5 h-2.5 rounded-full bg-[#7EA6C2]" />
 
               Danger Buffers
 
@@ -606,7 +610,7 @@ export default function Satellite() {
 
       <section className="max-w-7xl mx-auto px-6">
 
-        <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
+        <div className="border border-[#D9E0E7] overflow-hidden">
 
           <div className="h-[650px]">
 
@@ -630,86 +634,120 @@ export default function Satellite() {
               />
 
 
-              {/* ==================================================
-                  LANDSLIDE GEOJSON
-              ================================================== */}
+              {/* LANDSLIDE GEOJSON */}
 
               {showLandslides && landslideGeoJSON && (
+
                 <GeoJSON
                   key={`landslide-${landslideGeoJSON.features?.length}`}
                   data={landslideGeoJSON}
+
                   style={{
-                    color: "#dc2626",
+                    color: "#123F66",
                     weight: 2,
-                    fillColor: "#ef4444",
+                    fillColor: "#123F66",
                     fillOpacity: 0.35,
                   }}
+
                   onEachFeature={(feature, layer) => {
 
                     const properties =
                       feature.properties || {};
 
                     layer.bindPopup(`
+
                       <div style="min-width:200px">
-                        <strong>🌋 Landslide Zone</strong>
+
+                        <strong>
+                          Landslide Zone
+                        </strong>
+
                         <br/>
-                        Region: ${
-                          properties.region_id ?? "Unknown"
+
+                        Region:
+                        ${
+                          properties.region_id ??
+                          "Unknown"
                         }
+
                         <br/>
-                        Probability: ${
+
+                        Probability:
+                        ${
                           properties.max_probability
                             ? (
-                                properties.max_probability * 100
+                                properties.max_probability *
+                                100
                               ).toFixed(2) + "%"
                             : "Unknown"
                         }
+
                         <br/>
-                        Affected Pixels: ${
+
+                        Affected Pixels:
+                        ${
                           properties.affected_pixels ??
                           "Unknown"
                         }
+
                       </div>
+
                     `);
 
                   }}
+
                 />
+
               )}
 
 
-              {/* ==================================================
-                  FLOOD GEOJSON
-              ================================================== */}
+              {/* FLOOD GEOJSON */}
 
               {showFloods && floodGeoJSON && (
+
                 <GeoJSON
                   key={`flood-${floodGeoJSON.features?.length}`}
                   data={floodGeoJSON}
+
                   style={{
-                    color: "#0891b2",
+                    color: "#4D7FA3",
                     weight: 2,
-                    fillColor: "#06b6d4",
+                    fillColor: "#4D7FA3",
                     fillOpacity: 0.35,
                   }}
+
                   onEachFeature={(feature, layer) => {
 
                     const properties =
                       feature.properties || {};
 
                     layer.bindPopup(`
+
                       <div style="min-width:220px">
-                        <strong>🌊 Flood Zone</strong>
+
+                        <strong>
+                          Flood Zone
+                        </strong>
+
                         <br/>
+
                         ${
                           properties.name ||
                           "Flood affected region"
                         }
+
                         <br/>
-                        Risk: ${
-                          properties.risk || "Unknown"
+
+                        Risk:
+                        ${
+                          properties.risk ||
+                          "Unknown"
                         }
+
                         <br/>
-                        Probability: ${
+
+                        Probability:
+                        ${
                           properties.probability
                             ? (
                                 properties.probability *
@@ -717,17 +755,19 @@ export default function Satellite() {
                               ).toFixed(1) + "%"
                             : "Unknown"
                         }
+
                       </div>
+
                     `);
 
                   }}
+
                 />
+
               )}
 
 
-              {/* ==================================================
-                  HAZARD MARKERS / BUFFERS
-              ================================================== */}
+              {/* HAZARD MARKERS */}
 
               {hazards.map((hazard) => {
 
@@ -736,39 +776,49 @@ export default function Satellite() {
                     ? showLandslides
                     : showFloods;
 
-                if (!visible) return null;
+                if (!visible) {
+                  return null;
+                }
 
                 return (
+
                   <Circle
                     key={hazard.id}
+
                     center={[
                       hazard.lat,
                       hazard.lng,
                     ]}
+
                     radius={
                       showBuffers
                         ? hazard.radius
                         : 0
                     }
+
                     pathOptions={{
+
                       color:
                         hazard.type === "LANDSLIDE"
-                          ? "#dc2626"
-                          : "#0891b2",
+                          ? "#123F66"
+                          : "#4D7FA3",
 
                       fillColor:
                         hazard.type === "LANDSLIDE"
-                          ? "#ef4444"
-                          : "#06b6d4",
+                          ? "#123F66"
+                          : "#4D7FA3",
 
                       fillOpacity: 0.12,
 
                       weight: 1.5,
 
                       dashArray: "5, 6",
+
                     }}
+
                     eventHandlers={{
-                      click: () => focusHazard(hazard),
+                      click: () =>
+                        focusHazard(hazard),
                     }}
                   >
 
@@ -776,10 +826,12 @@ export default function Satellite() {
 
                       <div className="min-w-[220px]">
 
-                        <div className="font-bold text-[#123F66]">
+                        <div className="font-semibold text-[#123F66]">
+
                           {hazard.type === "LANDSLIDE"
-                            ? "🌋 Landslide Hazard"
-                            : "🌊 Flood Hazard"}
+                            ? "Landslide Hazard"
+                            : "Flood Hazard"}
+
                         </div>
 
                         <div className="font-semibold mt-2">
@@ -787,27 +839,52 @@ export default function Satellite() {
                         </div>
 
                         <div className="text-sm mt-2">
-                          <strong>Confidence:</strong>{" "}
-                          {(hazard.probability * 100).toFixed(1)}%
+
+                          <strong>
+                            Confidence:
+                          </strong>{" "}
+
+                          {(
+                            hazard.probability * 100
+                          ).toFixed(1)}
+                          %
+
                         </div>
 
                         <div className="text-sm">
-                          <strong>Location:</strong>{" "}
+
+                          <strong>
+                            Location:
+                          </strong>{" "}
+
                           {hazard.lat.toFixed(4)},
                           {" "}
                           {hazard.lng.toFixed(4)}
+
                         </div>
 
                         <div className="text-sm">
-                          <strong>Country:</strong>{" "}
+
+                          <strong>
+                            Country:
+                          </strong>{" "}
+
                           {hazard.country}
+
                         </div>
 
                         {hazard.affectedPixels && (
+
                           <div className="text-sm">
-                            <strong>Affected Pixels:</strong>{" "}
+
+                            <strong>
+                              Affected Pixels:
+                            </strong>{" "}
+
                             {hazard.affectedPixels.toLocaleString()}
+
                           </div>
+
                         )}
 
                       </div>
@@ -815,7 +892,9 @@ export default function Satellite() {
                     </Popup>
 
                   </Circle>
+
                 );
+
               })}
 
             </MapContainer>
@@ -832,29 +911,33 @@ export default function Satellite() {
       ====================================================== */}
 
       {selectedHazard && (
+
         <section className="max-w-7xl mx-auto px-6 py-5">
 
-          <div className="bg-white border border-gray-200 rounded-xl p-5">
+          <div className="bg-white border border-[#D9E0E7] p-5">
 
             <div className="flex items-center justify-between">
 
               <div>
 
-                <p className="text-sm text-gray-500">
+                <p className="text-sm text-[#667085]">
                   Selected Hazard
                 </p>
 
-                <h2 className="text-lg font-bold text-[#123F66] mt-1">
+                <h2 className="text-lg font-semibold text-[#243447] mt-1">
                   {selectedHazard.name}
                 </h2>
 
               </div>
 
               <button
-                onClick={() => setSelectedHazard(null)}
-                className="text-gray-400 hover:text-gray-700"
+                onClick={() =>
+                  setSelectedHazard(null)
+                }
+                className="text-[#667085] hover:text-[#123F66] transition"
+                aria-label="Close selected hazard"
               >
-                ✕
+                <X size={20} />
               </button>
 
             </div>
@@ -862,6 +945,7 @@ export default function Satellite() {
           </div>
 
         </section>
+
       )}
 
 
@@ -871,47 +955,49 @@ export default function Satellite() {
 
       <section className="max-w-7xl mx-auto px-6 py-8">
 
-        <div className="bg-white border border-gray-200 rounded-xl p-6">
+        <div className="bg-white border border-[#D9E0E7] p-6">
 
-          <h2 className="text-lg font-bold text-[#123F66]">
+          <h2 className="text-lg font-semibold text-[#243447]">
             Satellite Intelligence
           </h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mt-5">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-6">
 
             <div>
 
-              <p className="font-semibold text-gray-800">
+              <p className="font-semibold text-[#243447]">
                 Landslide Detection
               </p>
 
-              <p className="text-sm text-gray-500 mt-1">
+              <p className="text-sm text-[#667085] mt-1 leading-6">
                 Attention-ResUNet using multispectral and
                 topographic information.
               </p>
 
             </div>
 
+
             <div>
 
-              <p className="font-semibold text-gray-800">
+              <p className="font-semibold text-[#243447]">
                 Flood Detection
               </p>
 
-              <p className="text-sm text-gray-500 mt-1">
+              <p className="text-sm text-[#667085] mt-1 leading-6">
                 Sentinel-2 MNDWI combined with Sentinel-1 SAR
                 information.
               </p>
 
             </div>
 
+
             <div>
 
-              <p className="font-semibold text-gray-800">
+              <p className="font-semibold text-[#243447]">
                 Live Monitoring
               </p>
 
-              <p className="text-sm text-gray-500 mt-1">
+              <p className="text-sm text-[#667085] mt-1 leading-6">
                 Satellite monitoring service polls for new
                 Copernicus data periodically.
               </p>
