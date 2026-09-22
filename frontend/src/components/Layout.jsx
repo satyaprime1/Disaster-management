@@ -9,11 +9,8 @@ const navItems = [
 
 const contributors = [
   { name: "Yadavalli Satya Harsha", email: "yadavallibhavanirao@gmail.com" },
-  { name: "Vanampally Sai Vishal Reddy", email: "v14406746@gmail.com" },
-  { name: "Tirupati Shashank", email: "shashanksasi3@gmail.com" },
-  { name: "Eemani Sai Harshini", email: "eemanisaiharshini@gmail.com" },
-  { name: "Nelluri Shalini Gayathri", email: "nelluri.sg@gmail.com" },
-  { name: "Shaik Saleha", email: "salehashaikj986@gmail.com" },
+  { name: "Sodhan Krishna Sai", email: "sodhankrishnasai@gmail.com" },
+  { name: "Naga Chaitanya", email: "nagachaitanyapitani@gmail.com" }
 ];
 
 export default function Layout() {
