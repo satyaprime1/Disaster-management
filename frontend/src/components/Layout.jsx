@@ -10,7 +10,7 @@ const navItems = [
 const contributors = [
   { name: "Yadavalli Satya Harsha", email: "yadavallibhavanirao@gmail.com" },
   { name: "Sodhan Krishna Sai", email: "sodhankrishnasai@gmail.com" },
-  { name: "Naga Chaitanya", email: "nagachaitanyapitani@gmail.com" }
+  { name: "Nihitha Vennapusa", email: "chandranihitha7@gmail.com" }
 ];
 
 export default function Layout() {
